@@ -497,7 +497,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -521,7 +521,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -545,7 +545,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -569,7 +569,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -593,7 +593,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -617,7 +617,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -641,7 +641,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -665,7 +665,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -713,7 +713,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -737,7 +737,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -761,7 +761,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -785,7 +785,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -809,7 +809,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -1433,7 +1433,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Yellow",
     "_legal": {
       "COR": true
@@ -1457,7 +1457,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Yellow",
     "_legal": {
       "COR": true
@@ -1481,7 +1481,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Yellow",
     "_legal": {
       "COR": true
@@ -1505,7 +1505,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Yellow",
     "_legal": {
       "COR": true
@@ -1529,7 +1529,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Yellow",
     "_legal": {
       "COR": true
@@ -1553,7 +1553,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Yellow",
     "_legal": {
       "COR": true
@@ -1577,7 +1577,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Yellow",
     "_legal": {
       "COR": true
@@ -1625,7 +1625,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Yellow",
     "_legal": {
       "COR": true
@@ -2177,7 +2177,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green",
     "_legal": {
       "COR": true
@@ -2201,7 +2201,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green",
     "_legal": {
       "COR": true
@@ -2225,7 +2225,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green",
     "_legal": {
       "COR": true
@@ -2249,7 +2249,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green",
     "_legal": {
       "COR": true
@@ -2297,7 +2297,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green",
     "_legal": {
       "COR": true
@@ -2321,7 +2321,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green",
     "_legal": {
       "COR": true
@@ -2345,7 +2345,7 @@
     "set": "Enter the Huddle",
     "rarity": "Epic",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green",
     "_legal": {
       "COR": true
@@ -2369,7 +2369,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green",
     "_legal": {
       "COR": true
@@ -2393,7 +2393,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green",
     "_legal": {
       "COR": true
@@ -2417,7 +2417,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green",
     "_legal": {
       "COR": true
@@ -2441,7 +2441,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green",
     "_legal": {
       "COR": true
@@ -3017,7 +3017,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -3041,7 +3041,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -3089,7 +3089,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -3113,7 +3113,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -3137,7 +3137,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -3161,7 +3161,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -3185,7 +3185,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -3209,7 +3209,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -3233,7 +3233,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -3257,7 +3257,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -3833,7 +3833,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Purple",
     "_legal": {
       "COR": true
@@ -3857,7 +3857,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Purple",
     "_legal": {
       "COR": true
@@ -3881,7 +3881,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Purple",
     "_legal": {
       "COR": true
@@ -3905,7 +3905,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Purple",
     "_legal": {
       "COR": true
@@ -3929,7 +3929,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Purple",
     "_legal": {
       "COR": true
@@ -3953,7 +3953,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Purple",
     "_legal": {
       "COR": true
@@ -3977,7 +3977,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Purple",
     "_legal": {
       "COR": true
@@ -4025,7 +4025,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Purple",
     "_legal": {
       "COR": true
@@ -4049,7 +4049,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Purple",
     "_legal": {
       "COR": true
@@ -4073,7 +4073,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Purple",
     "_legal": {
       "COR": true
@@ -4337,7 +4337,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Relic",
     "_legal": {
       "COR": true
@@ -4361,7 +4361,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Relic",
     "_legal": {
       "COR": true
@@ -4385,7 +4385,7 @@
     "set": "Enter the Huddle",
     "rarity": "Epic",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Relic",
     "_legal": {
       "COR": true
@@ -4409,7 +4409,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Relic",
     "_legal": {
       "COR": true
@@ -4433,7 +4433,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Relic",
     "_legal": {
       "COR": true
@@ -4457,7 +4457,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Relic",
     "_legal": {
       "COR": true
@@ -4481,7 +4481,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Relic",
     "_legal": {
       "COR": true
@@ -4505,7 +4505,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Relic",
     "_legal": {
       "COR": true
@@ -4529,7 +4529,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Relic",
     "_legal": {
       "COR": true
@@ -4553,7 +4553,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Relic",
     "_legal": {
       "COR": true
@@ -4577,7 +4577,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Rod",
     "_legal": {
       "COR": true
@@ -4601,7 +4601,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Rod",
     "_legal": {
       "COR": true
@@ -4625,7 +4625,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Rod",
     "_legal": {
       "COR": true
@@ -4649,7 +4649,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Rod",
     "_legal": {
       "COR": true
@@ -4673,7 +4673,7 @@
     "set": "Enter the Huddle",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Rod",
     "_legal": {
       "COR": true
@@ -4697,7 +4697,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Rod",
     "_legal": {
       "COR": true
@@ -4721,7 +4721,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Rod",
     "_legal": {
       "COR": true
@@ -4745,7 +4745,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Rod",
     "_legal": {
       "COR": true
@@ -4769,7 +4769,7 @@
     "set": "Enter the Huddle",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Rod",
     "_legal": {
       "COR": true
@@ -4793,7 +4793,7 @@
     "set": "Enter the Huddle",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Rod",
     "_legal": {
       "COR": true
@@ -4817,7 +4817,7 @@
     "set": "Enter the Huddle",
     "rarity": null,
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Colorless",
     "_legal": {
       "COR": true
@@ -4842,7 +4842,7 @@
     "set": "Enter the Huddle",
     "rarity": null,
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Colorless",
     "_legal": {
       "COR": true
@@ -5203,7 +5203,7 @@
     "set": "Legend of the Lils",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -5227,7 +5227,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -5251,7 +5251,7 @@
     "set": "Legend of the Lils",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -5275,7 +5275,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -5299,7 +5299,7 @@
     "set": "Legend of the Lils",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -5323,7 +5323,7 @@
     "set": "Legend of the Lils",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -5347,7 +5347,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -5371,7 +5371,7 @@
     "set": "Legend of the Lils",
     "rarity": "Epic",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -5419,7 +5419,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red",
     "_legal": {
       "COR": true
@@ -5827,7 +5827,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Yellow",
     "_legal": {
       "COR": true
@@ -5851,7 +5851,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Yellow",
     "_legal": {
       "COR": true
@@ -5875,7 +5875,7 @@
     "set": "Legend of the Lils",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Yellow",
     "_legal": {
       "COR": true
@@ -5899,7 +5899,7 @@
     "set": "Legend of the Lils",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Yellow",
     "_legal": {
       "COR": true
@@ -5923,7 +5923,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Yellow",
     "_legal": {
       "COR": true
@@ -5947,7 +5947,7 @@
     "set": "Legend of the Lils",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Yellow",
     "_legal": {
       "COR": true
@@ -5995,7 +5995,7 @@
     "set": "Legend of the Lils",
     "rarity": "Rare",
     "vibe": "1",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Yellow",
     "_legal": {
       "COR": true
@@ -6379,7 +6379,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green",
     "_legal": {
       "COR": true
@@ -6403,7 +6403,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green",
     "_legal": {
       "COR": true
@@ -6427,7 +6427,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green",
     "_legal": {
       "COR": true
@@ -6451,7 +6451,7 @@
     "set": "Legend of the Lils",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green",
     "_legal": {
       "COR": true
@@ -6475,7 +6475,7 @@
     "set": "Legend of the Lils",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green",
     "_legal": {
       "COR": true
@@ -6499,7 +6499,7 @@
     "set": "Legend of the Lils",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green",
     "_legal": {
       "COR": true
@@ -6523,7 +6523,7 @@
     "set": "Legend of the Lils",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green",
     "_legal": {
       "COR": true
@@ -6931,7 +6931,7 @@
     "set": "Legend of the Lils",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -6955,7 +6955,7 @@
     "set": "Legend of the Lils",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -6979,7 +6979,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -7003,7 +7003,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -7027,7 +7027,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -7051,7 +7051,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -7075,7 +7075,7 @@
     "set": "Legend of the Lils",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -7099,7 +7099,7 @@
     "set": "Legend of the Lils",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -7123,7 +7123,7 @@
     "set": "Legend of the Lils",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue",
     "_legal": {
       "COR": true
@@ -7603,7 +7603,7 @@
     "set": "Legend of the Lils",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Purple",
     "_legal": {
       "COR": true
@@ -7627,7 +7627,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Purple",
     "_legal": {
       "COR": true
@@ -7651,7 +7651,7 @@
     "set": "Legend of the Lils",
     "rarity": "Rare",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Purple",
     "_legal": {
       "COR": true
@@ -7675,7 +7675,7 @@
     "set": "Legend of the Lils",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Purple",
     "_legal": {
       "COR": true
@@ -7699,7 +7699,7 @@
     "set": "Legend of the Lils",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Purple",
     "_legal": {
       "COR": true
@@ -7867,7 +7867,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Green Purple",
     "_legal": {
       "COR": true
@@ -7891,7 +7891,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Purple Red",
     "_legal": {
       "COR": true
@@ -7915,7 +7915,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Red Blue",
     "_legal": {
       "COR": true
@@ -7939,7 +7939,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Blue Yellow",
     "_legal": {
       "COR": true
@@ -7963,7 +7963,7 @@
     "set": "Legend of the Lils",
     "rarity": "Common",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Yellow Green",
     "_legal": {
       "COR": true
@@ -8443,7 +8443,7 @@
     "set": "Legend of the Lils",
     "rarity": "Uncommon",
     "vibe": "EMPTY",
-    "subtype": "EMPTY",
+    "subtype": "",
     "color": "Rod",
     "_legal": {
       "COR": true
