@@ -1651,6 +1651,9 @@
     "vibe": "4",
     "subtype": "Penguin",
     "color": "Green",
+    "tokens": [
+      "ETH-202"
+    ],
     "_legal": {
       "COR": true
     }
@@ -8637,6 +8640,9 @@
     "vibe": "2",
     "subtype": "Birb",
     "color": "Red",
+    "tokens": [
+      "ETH-202"
+    ],
     "_legal": {
       "COR": true
     }
