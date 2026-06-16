@@ -69,12 +69,6 @@
                                 }
                             ]
                         }
-                    ],
-                    "direction": "column",
-                    "content": [
-                        {
-                            "section": "Baron"
-                        }
                     ]
                 },
                 "autoPlayFromHand": {
