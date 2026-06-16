@@ -118,7 +118,7 @@
                         "title": "Rods",
                         "isHidden": "yes",
                         "height": "SMALL",
-                        "alignment": "START",
+                        "alignment": "CENTER",
                         "noAutoPayTo": "true",
                         "isHorizontalAllowed": false,
                         "displayedTitle": "Rod Zone",
@@ -129,7 +129,7 @@
                     "Baron": {
                         "title": "Baron",
                         "isHidden": "no",
-                        "height": "SMALL",
+                        "height": "MEDIUM",
                         "alignment": "END",
                         "isHorizontalAllowed": true
                     }
