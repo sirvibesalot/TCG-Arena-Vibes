@@ -58,14 +58,6 @@
             "countersStartingValues": [
                 0
             ],
-            "tokens": [
-                {
-                    "name": "Baron Fishpockets",
-                    "image": "https://sirvibesalot.github.io/TCG-Arena-Vibes/assets/cards/token/BaronFishpockets.png",
-                    "isUnique": true,
-                    "leavesAtEndOfTurn": false
-                }
-            ],
             "hideFacedDownCards": true,
             "sections": {
                 "customSections": [
@@ -106,10 +98,12 @@
                     "Action": "Stack",
                     "Character": "Huddle",
                     "Fit": "Huddle",
-                    "Location": "Huddle"
+                    "Location": "Huddle",
+                    "Rod": "Rods"
                 },
                 "autoPlayFromStack": {
                     "Action": "Discard",
+                    "Rod": "Discard",
                     "Character": "Huddle",
                     "Fit": "Huddle",
                     "Location": "Huddle"
