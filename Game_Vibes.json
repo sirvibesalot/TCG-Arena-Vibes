@@ -129,7 +129,7 @@
         "backgrounds": [
             "https://sirvibesalot.github.io/TCG-Arena-Vibes/assets/backgrounds/VibesTCG_LandingPage_16x9.webp"
         ],
-        "decksUrl": "https://valcur.github.io/TCG-Arena-Lorcana/LorcanaDecks.json"
+        "decksUrl": "https://sirvibesalot.github.io/TCG-Arena-Vibes/VibesDecks.json"
     },
     "customHelp": "To put a card in your rods, drag and drop the card in the rod zone.",
     "cards": {
