@@ -103,7 +103,7 @@
                     "Action": "Stack",
                     "Character": "Huddle",
                     "Fit": "Huddle",
-                    "Location": "Huddle",
+                    "Relic": "Huddle",
                     "Rod": "Rods"
                 },
                 "autoPlayFromStack": {
@@ -111,7 +111,7 @@
                     "Rod": "Discard",
                     "Character": "Huddle",
                     "Fit": "Huddle",
-                    "Location": "Huddle"
+                    "Relic": "Huddle"
                 },
                 "sectionsDict": {
                     "Stack": {
