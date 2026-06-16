@@ -48,6 +48,14 @@
             "countersStartingValues": [
                 0
             ],
+            "tokens": [
+                {
+                    "name": "Baron Fishpockets",
+                    "image": "https://sirvibesalot.github.io/TCG-Arena-Vibes/assets/cards/token/BaronFishpockets.png",
+                    "isUnique": true,
+                    "leavesAtEndOfTurn": false
+                }
+            ],
             "hideFacedDownCards": true,
             "sections": {
                 "customSections": [
@@ -130,7 +138,7 @@
                         "title": "Baron",
                         "isHidden": "no",
                         "height": "MEDIUM",
-                        "alignment": "END",
+                        "alignment": "CENTER",
                         "isHorizontalAllowed": true
                     }
                 }
@@ -140,7 +148,9 @@
     "defaultRessources": {
         "backgrounds": [
             "https://sirvibesalot.github.io/TCG-Arena-Vibes/assets/backgrounds/VibesTCG_LandingPage_16x9.webp",
-            "https://sirvibesalot.github.io/TCG-Arena-Vibes/assets/playmats/Vibes_WorldChampsPlaymat2026.webp"
+            "https://sirvibesalot.github.io/TCG-Arena-Vibes/assets/playmats/Vibes_WorldChampsPlaymat2026.webp",
+            "https://sirvibesalot.github.io/TCG-Arena-Vibes/assets/playmats/Vibes_LordOfLightning-Playmat.webp",
+            "https://sirvibesalot.github.io/TCG-Arena-Vibes/assets/playmats/Vibes_AsianChamps2026-Playmat.webp"
         ],
         "decksUrl": "https://sirvibesalot.github.io/TCG-Arena-Vibes/VibesDecks.json"
     },
