@@ -1,11 +1,13 @@
 {
     "name": "Vibes",
     "menuBackgroundImage": "https://sirvibesalot.github.io/TCG-Arena-Vibes/assets/backgrounds/VibesTCG_LandingPage_16x9.webp",
+    "cardRotation": "90",
     "deckBuilding": {
         "mainFilters": [
             "color",
             "type",
-            "cost"
+            "cost",
+            "name"
         ],
         "formats": [
             {
@@ -19,6 +21,7 @@
             "Classic": {
                 "general": {
                     "min": 52,
+                    "max": 52,
                     "maxPerCard": 4
                 }
             }
@@ -26,6 +29,23 @@
     },
     "gameplay": {
         "Classic": {
+            "beforeGameStart": {
+                "initialBoardSetup": {
+                    "0": [
+                        {
+                            "createToken": "Baron Fishpockets",
+                            "count": 1,
+                            "destination": "Baron"
+                        },
+                        {
+                            "drawFromTop": "Deck",
+                            "count": 1,
+                            "destination": "Hand",
+                            "waitForPlayerTurn": true
+                        }
+                    ]
+                }
+            },
             "mulligan": {
                 "startingHandSize": 5,
                 "mulliganCount": {
@@ -55,9 +75,16 @@
                 ],
                 "layout": {
                     "direction": "column",
+                    "isSymetricalForOpponents": false,
                     "content": [
                         {
                             "section": "Huddle"
+                        },
+                        {
+                            "section": "Baron",
+                            "style": {
+                                "width": "10.2vh"
+                            }
                         },
                         {
                             "direction": "row",
@@ -66,12 +93,6 @@
                                     "section": "Rods"
                                 }
                             ]
-                        }
-                    ],
-                    "direction": "column",
-                    "content": [
-                        {
-                            "section": "Baron"
                         }
                     ]
                 },
@@ -103,11 +124,12 @@
                         "isHidden": "no",
                         "height": "MEDIUM",
                         "alignment": "CENTER",
-                        "isHorizontalAllowed": true
+                        "isHorizontalAllowed": true,
+                        "keepTappedNewTurn": false
                     },
                     "Rods": {
                         "title": "Rods",
-                        "isHidden": "no",
+                        "isHidden": "yes",
                         "height": "SMALL",
                         "alignment": "START",
                         "noAutoPayTo": "true",
@@ -121,7 +143,7 @@
                         "title": "Baron",
                         "isHidden": "no",
                         "height": "SMALL",
-                        "alignment": "END",
+                        "alignment": "CENTER",
                         "isHorizontalAllowed": true
                     }
                 }
