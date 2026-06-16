@@ -29,23 +29,6 @@
     },
     "gameplay": {
         "Classic": {
-            "beforeGameStart": {
-                "initialBoardSetup": {
-                    "0": [
-                        {
-                            "createToken": "Baron Fishpockets",
-                            "count": 1,
-                            "destination": "Baron"
-                        },
-                        {
-                            "drawFromTop": "Deck",
-                            "count": 1,
-                            "destination": "Hand",
-                            "waitForPlayerTurn": true
-                        }
-                    ]
-                }
-            },
             "mulligan": {
                 "startingHandSize": 5,
                 "mulliganCount": {
