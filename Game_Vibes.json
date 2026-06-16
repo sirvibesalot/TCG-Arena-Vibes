@@ -57,9 +57,22 @@
                 ],
                 "layout": {
                     "direction": "column",
+                    "isSymetricalForOpponents": false,
                     "content": [
                         {
-                            "section": "Huddle"
+                            "direction": "row",
+                            "style": false,
+                            "content": [
+                                {
+                                    "section": "Huddle"
+                                },
+                                {
+                                    "section": "Baron",
+                                    "style": {
+                                        "width": "10.2vh"
+                                    }
+                                }
+                            ]
                         },
                         {
                             "direction": "row",
