@@ -130,7 +130,8 @@
     },
     "defaultRessources": {
         "backgrounds": [
-            "https://sirvibesalot.github.io/TCG-Arena-Vibes/assets/backgrounds/VibesTCG_LandingPage_16x9.webp"
+            "https://sirvibesalot.github.io/TCG-Arena-Vibes/assets/backgrounds/VibesTCG_LandingPage_16x9.webp",
+            "https://sirvibesalot.github.io/TCG-Arena-Vibes/assets/playmats/assets/playmats/Vibes_WorldChampsPlaymat2026.webp"
         ],
         "decksUrl": "https://sirvibesalot.github.io/TCG-Arena-Vibes/VibesDecks.json"
     },
