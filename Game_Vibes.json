@@ -64,11 +64,14 @@
                             "content": [
                                 {
                                     "section": "Rods"
-                                },
-                                {
-                                    "section": "Baron"
                                 }
                             ]
+                        }
+                    ],
+                    "direction": "column",
+                    "content": [
+                        {
+                            "section": "Baron"
                         }
                     ]
                 },
