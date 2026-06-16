@@ -396,5 +396,346 @@
       "Fit": [],
       "Rod": []
     }
+  },
+  {
+    "title": "Enter the Huddle - Yellow Starter Deck",
+    "id": "a0eb3d32-fd9c-48ba-9e8d-800c4a1e75f6",
+    "cardCount": 52,
+    "createdAt": "2026-06-16T07:28:23.693Z",
+    "lastModifiedAt": "2026-06-16T07:28:23.693Z",
+    "game": "Vibes",
+    "format": [
+      "Classic"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Character",
+        "Action",
+        "Rod"
+      ],
+      "Character": [
+        {
+          "count": 4,
+          "id": "ETH-057"
+        },
+        {
+          "count": 4,
+          "id": "ETH-038"
+        },
+        {
+          "count": 4,
+          "id": "ETH-049"
+        },
+        {
+          "count": 4,
+          "id": "ETH-037"
+        },
+        {
+          "count": 4,
+          "id": "ETH-042"
+        },
+        {
+          "count": 4,
+          "id": "ETH-174"
+        },
+        {
+          "count": 1,
+          "id": "ETH-056"
+        },
+        {
+          "count": 1,
+          "id": "ETH-035"
+        },
+        {
+          "count": 4,
+          "id": "ETH-050"
+        },
+        {
+          "count": 4,
+          "id": "ETH-045"
+        },
+        {
+          "count": 1,
+          "id": "ETH-047"
+        },
+        {
+          "count": 4,
+          "id": "ETH-046"
+        }
+      ],
+      "Action": [
+        {
+          "count": 3,
+          "id": "ETH-064"
+        },
+        {
+          "count": 4,
+          "id": "ETH-061"
+        },
+        {
+          "count": 2,
+          "id": "ETH-062"
+        }
+      ],
+      "Rod": [
+        {
+          "count": 4,
+          "id": "ETH-199"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Red Starter Deck - Enter the Huddle",
+    "id": "a0eb3d32-fd9c-48ba-9e8d-800c4a1e75f6",
+    "cardCount": 52,
+    "createdAt": "2026-06-16T07:28:23.693Z",
+    "lastModifiedAt": "2026-06-16T07:28:23.693Z",
+    "game": "Vibes",
+    "format": [
+      "Classic"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Character",
+        "Action"
+      ],
+      "Character": [
+        {
+          "count": 1,
+          "id": "ETH-006"
+        },
+        {
+          "count": 4,
+          "id": "ETH-001"
+        },
+        {
+          "count": 4,
+          "id": "ETH-002"
+        },
+        {
+          "count": 4,
+          "id": "ETH-011"
+        },
+        {
+          "count": 4,
+          "id": "ETH-014"
+        },
+        {
+          "count": 4,
+          "id": "ETH-015"
+        },
+        {
+          "count": 4,
+          "id": "ETH-017"
+        },
+        {
+          "count": 4,
+          "id": "ETH-018"
+        }
+      ],
+      "Action": [
+        {
+          "count": 2,
+          "id": "ETH-026"
+        },
+        {
+          "count": 3,
+          "id": "ETH-021"
+        },
+        {
+          "count": 3,
+          "id": "ETH-029"
+        },
+        {
+          "count": 3,
+          "id": "ETH-033"
+        },
+        {
+          "count": 4,
+          "id": "ETH-030"
+        },
+        {
+          "count": 4,
+          "id": "ETH-032"
+        },
+        {
+          "count": 4,
+          "id": "ETH-034"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Enter the Huddle - Green Starter Deck",
+    "id": "a0eb3d32-fd9c-48ba-9e8d-800c4a1e75f6",
+    "cardCount": 52,
+    "createdAt": "2026-06-16T07:28:23.693Z",
+    "lastModifiedAt": "2026-06-16T07:28:23.693Z",
+    "game": "Vibes",
+    "format": [
+      "Classic"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Character",
+        "Action",
+        "Rod"
+      ],
+      "Character": [
+        {
+          "count": 1,
+          "id": "ETH-085"
+        },
+        {
+          "count": 4,
+          "id": "ETH-180"
+        },
+        {
+          "count": 1,
+          "id": "ETH-077"
+        },
+        {
+          "count": 1,
+          "id": "ETH-082"
+        },
+        {
+          "count": 2,
+          "id": "ETH-072"
+        },
+        {
+          "count": 3,
+          "id": "ETH-075"
+        },
+        {
+          "count": 4,
+          "id": "ETH-070"
+        },
+        {
+          "count": 4,
+          "id": "ETH-071"
+        },
+        {
+          "count": 4,
+          "id": "ETH-083"
+        },
+        {
+          "count": 4,
+          "id": "ETH-086"
+        },
+        {
+          "count": 4,
+          "id": "ETH-089"
+        },
+        {
+          "count": 4,
+          "id": "ETH-090"
+        }
+      ],
+      "Action": [
+        {
+          "count": 4,
+          "id": "ETH-092"
+        },
+        {
+          "count": 4,
+          "id": "ETH-096"
+        },
+        {
+          "count": 4,
+          "id": "ETH-101"
+        }
+      ],
+      "Rod": [
+        {
+          "count": 4,
+          "id": "ETH-191"
+        }
+      ]
+    }
+  },
+  {
+    "title": "Enter the Huddle - Blue Starter Deck",
+    "id": "a0eb3d32-fd9c-48ba-9e8d-800c4a1e75f6",
+    "cardCount": 52,
+    "createdAt": "2026-06-16T07:28:23.693Z",
+    "lastModifiedAt": "2026-06-16T07:28:23.693Z",
+    "game": "Vibes",
+    "format": [
+      "Classic"
+    ],
+    "deckList": {
+      "categoriesOrder": [
+        "Character",
+        "Action",
+        "Relic"
+      ],
+      "Character": [
+        {
+          "count": 1,
+          "id": "ETH-122"
+        },
+        {
+          "count": 3,
+          "id": "ETH-113"
+        },
+        {
+          "count": 4,
+          "id": "ETH-105"
+        },
+        {
+          "count": 4,
+          "id": "ETH-106"
+        },
+        {
+          "count": 4,
+          "id": "ETH-107"
+        },
+        {
+          "count": 4,
+          "id": "ETH-109"
+        },
+        {
+          "count": 4,
+          "id": "ETH-114"
+        },
+        {
+          "count": 4,
+          "id": "ETH-119"
+        }
+      ],
+      "Action": [
+        {
+          "count": 2,
+          "id": "ETH-129"
+        },
+        {
+          "count": 3,
+          "id": "ETH-133"
+        },
+        {
+          "count": 3,
+          "id": "ETH-134"
+        },
+        {
+          "count": 4,
+          "id": "ETH-126"
+        },
+        {
+          "count": 4,
+          "id": "ETH-127"
+        },
+        {
+          "count": 4,
+          "id": "ETH-130"
+        }
+      ],
+      "Relic": [
+        {
+          "count": 4,
+          "id": "ETH-182"
+        }
+      ]
+    }
   }
 ]
