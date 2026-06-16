@@ -1,0 +1,400 @@
+[
+  {
+    "title": "Birb and Pengu - Yellow Starter",
+    "id": "Birb and Pengu - Yellow Starter",
+    "game": "Vibes",
+    "format": "Classic",
+    "cardCount": 52,
+    "createdAt": "2024-12-04",
+    "lastModifiedAt": "2026-06-16",
+    "deckList": {
+      "categoriesOrder": [
+        "Character",
+        "Action",
+        "Relic",
+        "Fit",
+        "Rod"
+      ],
+      "Sideboard": [],
+      "Character": [
+        {
+          "count": 4,
+          "id": "BAP-033"
+        },
+        {
+          "count": 4,
+          "id": "BAP-035"
+        },
+        {
+          "count": 4,
+          "id": "BAP-034"
+        },
+        {
+          "count": 4,
+          "id": "BAP-038"
+        },
+        {
+          "count": 4,
+          "id": "BAP-045"
+        },
+        {
+          "count": 4,
+          "id": "BAP-041"
+        },
+        {
+          "count": 3,
+          "id": "BAP-046"
+        },
+        {
+          "count": 3,
+          "id": "BAP-044"
+        },
+        {
+          "count": 3,
+          "id": "BAP-043"
+        },
+        {
+          "count": 3,
+          "id": "BAP-047"
+        },
+        {
+          "count": 2,
+          "id": "BAP-048"
+        },
+        {
+          "count": 1,
+          "id": "BAP-051"
+        }
+      ],
+      "Action": [
+        {
+          "count": 4,
+          "id": "BAP-062"
+        },
+        {
+          "count": 4,
+          "id": "BAP-059"
+        },
+        {
+          "count": 3,
+          "id": "BAP-063"
+        },
+        {
+          "count": 2,
+          "id": "BAP-055"
+        }
+      ],
+      "Relic": [],
+      "Fit": [],
+      "Rod": []
+    }
+  },
+  {
+    "title": "Birb and Pengu - Green Starter",
+    "id": "Birb and Pengu - Green Starter",
+    "game": "Vibes",
+    "format": "Classic",
+    "cardCount": 52,
+    "createdAt": "2024-12-04",
+    "lastModifiedAt": "2026-06-16",
+    "deckList": {
+      "categoriesOrder": [
+        "Character",
+        "Action",
+        "Relic",
+        "Fit",
+        "Rod"
+      ],
+      "Sideboard": [],
+      "Character": [
+        {
+          "count": 4,
+          "id": "BAP-077"
+        },
+        {
+          "count": 4,
+          "id": "BAP-073"
+        },
+        {
+          "count": 4,
+          "id": "BAP-075"
+        },
+        {
+          "count": 4,
+          "id": "BAP-065"
+        },
+        {
+          "count": 4,
+          "id": "BAP-066"
+        },
+        {
+          "count": 3,
+          "id": "BAP-070"
+        },
+        {
+          "count": 3,
+          "id": "BAP-072"
+        },
+        {
+          "count": 3,
+          "id": "BAP-081"
+        },
+        {
+          "count": 2,
+          "id": "BAP-078"
+        },
+        {
+          "count": 1,
+          "id": "BAP-080"
+        },
+        {
+          "count": 1,
+          "id": "BAP-082"
+        }
+      ],
+      "Action": [
+        {
+          "count": 4,
+          "id": "BAP-086"
+        },
+        {
+          "count": 3,
+          "id": "BAP-095"
+        },
+        {
+          "count": 2,
+          "id": "BAP-089"
+        },
+        {
+          "count": 2,
+          "id": "BAP-087"
+        },
+        {
+          "count": 2,
+          "id": "BAP-090"
+        },
+        {
+          "count": 2,
+          "id": "BAP-093"
+        },
+        {
+          "count": 2,
+          "id": "BAP-091"
+        }
+      ],
+      "Relic": [],
+      "Fit": [
+        {
+          "count": 2,
+          "id": "BAP-178"
+        }
+      ],
+      "Rod": []
+    }
+  },
+  {
+    "title": "Birb & Pengu - Blue Starter",
+    "id": "Birb & Pengu - Blue Starter",
+    "game": "Vibes",
+    "format": "Classic",
+    "cardCount": 52,
+    "createdAt": "2024-12-04",
+    "lastModifiedAt": "2026-06-16",
+    "deckList": {
+      "categoriesOrder": [
+        "Character",
+        "Action",
+        "Relic",
+        "Fit",
+        "Rod"
+      ],
+      "Sideboard": [],
+      "Character": [
+        {
+          "count": 4,
+          "id": "BAP-099"
+        },
+        {
+          "count": 4,
+          "id": "BAP-097"
+        },
+        {
+          "count": 3,
+          "id": "BAP-105"
+        },
+        {
+          "count": 2,
+          "id": "BAP-108"
+        },
+        {
+          "count": 2,
+          "id": "BAP-112"
+        },
+        {
+          "count": 2,
+          "id": "BAP-116"
+        },
+        {
+          "count": 2,
+          "id": "BAP-109"
+        },
+        {
+          "count": 2,
+          "id": "BAP-118"
+        },
+        {
+          "count": 1,
+          "id": "BAP-104"
+        },
+        {
+          "count": 1,
+          "id": "BAP-110"
+        }
+      ],
+      "Action": [
+        {
+          "count": 4,
+          "id": "BAP-127"
+        },
+        {
+          "count": 3,
+          "id": "BAP-121"
+        },
+        {
+          "count": 3,
+          "id": "BAP-125"
+        }
+      ],
+      "Relic": [],
+      "Fit": [
+        {
+          "count": 4,
+          "id": "BAP-171"
+        },
+        {
+          "count": 4,
+          "id": "BAP-175"
+        },
+        {
+          "count": 4,
+          "id": "BAP-183"
+        },
+        {
+          "count": 2,
+          "id": "BAP-186"
+        },
+        {
+          "count": 2,
+          "id": "BAP-179"
+        },
+        {
+          "count": 2,
+          "id": "BAP-173"
+        },
+        {
+          "count": 1,
+          "id": "BAP-182"
+        }
+      ],
+      "Rod": []
+    }
+  },
+  {
+    "title": "Birb & Pengu - Red Starter",
+    "id": "Birb & Pengu - Red Starter",
+    "game": "Vibes",
+    "format": "Classic",
+    "cardCount": 52,
+    "createdAt": "2024-12-04",
+    "lastModifiedAt": "2026-06-16",
+    "deckList": {
+      "categoriesOrder": [
+        "Character",
+        "Action",
+        "Relic",
+        "Fit",
+        "Rod"
+      ],
+      "Sideboard": [],
+      "Character": [
+        {
+          "count": 4,
+          "id": "BAP-013"
+        },
+        {
+          "count": 4,
+          "id": "BAP-008"
+        },
+        {
+          "count": 4,
+          "id": "BAP-009"
+        },
+        {
+          "count": 4,
+          "id": "BAP-012"
+        },
+        {
+          "count": 4,
+          "id": "BAP-010"
+        },
+        {
+          "count": 4,
+          "id": "BAP-015"
+        },
+        {
+          "count": 4,
+          "id": "BAP-001"
+        },
+        {
+          "count": 3,
+          "id": "BAP-011"
+        },
+        {
+          "count": 3,
+          "id": "BAP-014"
+        },
+        {
+          "count": 2,
+          "id": "BAP-002"
+        },
+        {
+          "count": 1,
+          "id": "BAP-003"
+        },
+        {
+          "count": 1,
+          "id": "BAP-020"
+        }
+      ],
+      "Action": [
+        {
+          "count": 4,
+          "id": "BAP-026"
+        },
+        {
+          "count": 3,
+          "id": "BAP-023"
+        },
+        {
+          "count": 2,
+          "id": "BAP-029"
+        },
+        {
+          "count": 2,
+          "id": "BAP-024"
+        },
+        {
+          "count": 2,
+          "id": "BAP-028"
+        },
+        {
+          "count": 1,
+          "id": "BAP-022"
+        }
+      ],
+      "Relic": [],
+      "Fit": [],
+      "Rod": []
+    }
+  }
+]
