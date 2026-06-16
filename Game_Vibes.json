@@ -35,6 +35,11 @@
                         "createCardId": "ETH-201",
                         "count": 1,
                         "destination": "Baron"
+                    },
+                    {
+                        "createCardId": "ETH-202",
+                        "count": 0,
+                        "destination": "Baron"
                     }
                 ]
             },
@@ -143,7 +148,7 @@
                         "isHidden": "no",
                         "height": "MEDIUM",
                         "alignment": "CENTER",
-                        "isHorizontalAllowed": true
+                        "isHorizontalAllowed": false
                     }
                 }
             }
