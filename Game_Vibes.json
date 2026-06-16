@@ -1,0 +1,140 @@
+{
+    "name": "Vibes",
+    "menuBackgroundImage": "https://sirvibesalot.github.io/TCG-Arena-Vibes/assets/backgrounds/VibesTCG_LandingPage_16x9.webp",
+    "deckBuilding": {
+        "mainFilters": [
+            "color",
+            "type",
+            "cost"
+        ],
+        "formats": [
+            {
+                "title": "Classic",
+                "gameplay": "Classic",
+                "legalityCode": "COR",
+                "deckRuleset": "Classic"
+            }
+        ],
+        "deckRulesets": {
+            "Classic": {
+                "general": {
+                    "min": 52,
+                    "maxPerCard": 4
+                }
+            }
+        }
+    },
+    "gameplay": {
+        "Classic": {
+            "mulligan": {
+                "startingHandSize": 5,
+                "mulliganCount": {
+                    "max": 1
+                },
+                "mulliganCycle": {
+                    "info": "You put as many as you want of the five cards in your hand to the bottom of your deck then draw the same number of new cards as you put back from the top of your deck.",
+                    "steps": [
+                        "toBottom",
+                        "draw"
+                    ]
+                }
+            },
+            "newTurn": {
+                "drawOnStart": false,
+                "sharedTurn": false
+            },
+            "countersStartingValues": [
+                0
+            ],
+            "hideFacedDownCards": true,
+            "sections": {
+                "customSections": [
+                    "Huddle",
+                    "Rods",
+                    "Baron"
+                ],
+                "layout": {
+                    "direction": "column",
+                    "content": [
+                        {
+                            "section": "Huddle"
+                        },
+                        {
+                            "direction": "row",
+                            "content": [
+                                {
+                                    "section": "Rods"
+                                },
+                                {
+                                    "section": "Baron"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "autoPlayFromHand": {
+                    "Action": "Stack",
+                    "Character": "Huddle",
+                    "Fit": "Huddle",
+                    "Location": "Huddle"
+                },
+                "autoPlayFromStack": {
+                    "Action": "Discard",
+                    "Character": "Huddle",
+                    "Fit": "Huddle",
+                    "Location": "Huddle"
+                },
+                "sectionsDict": {
+                    "Stack": {
+                        "isDefaultSection": true,
+                        "title": "Stack",
+                        "isHidden": "no",
+                        "height": "HUGE",
+                        "alignment": "NONE",
+                        "isHorizontalAllowed": false,
+                        "isGroupForbidden": true,
+                        "displayedTitle": "Stack"
+                    },
+                    "Huddle": {
+                        "title": "Huddle",
+                        "isHidden": "no",
+                        "height": "MEDIUM",
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": true
+                    },
+                    "Rods": {
+                        "title": "Rods",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "START",
+                        "noAutoPayTo": "true",
+                        "isHorizontalAllowed": false,
+                        "displayedTitle": "Rod Zone",
+                        "isGroupForbidden": false,
+                        "showHiddenCardInHistory": false,
+                        "logWhenPlayed": true
+                    },
+                    "Baron": {
+                        "title": "Baron",
+                        "isHidden": "no",
+                        "height": "SMALL",
+                        "alignment": "END",
+                        "isHorizontalAllowed": true
+                    }
+                }
+            }
+        }
+    },
+    "defaultRessources": {
+        "backgrounds": [
+            "https://sirvibesalot.github.io/TCG-Arena-Vibes/assets/backgrounds/VibesTCG_LandingPage_16x9.webp"
+        ],
+        "decksUrl": "https://valcur.github.io/TCG-Arena-Lorcana/LorcanaDecks.json"
+    },
+    "customHelp": "To put a card in your rods, drag and drop the card in the rod zone.",
+    "cards": {
+        "dataUrl": "https://sirvibesalot.github.io/TCG-Arena-Vibes/VibesCards.json",
+        "cardBack": "https://sirvibesalot.github.io/TCG-Arena-Vibes/assets/cardbacks/Vibes_DefaultCardBack.webp",
+        "cardBackColor": "#0c0f15"
+    }
+}
