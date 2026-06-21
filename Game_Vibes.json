@@ -110,7 +110,7 @@
             "sections": {
                 "customSections": [
                     "Huddle",
-                    "Rods",
+                    "Mana",
                     "Baron"
                 ],
                 "layout": {
@@ -136,7 +136,7 @@
                             "direction": "row",
                             "content": [
                                 {
-                                    "section": "Rods"
+                                    "section": "Mana"
                                 }
                             ]
                         }
@@ -147,11 +147,11 @@
                     "Character": "Huddle",
                     "Fit": "Huddle",
                     "Relic": "Huddle",
-                    "Rod": "Rods"
+                    "Rod": "Mana"
                 },
                 "autoPlayFromStack": {
                     "Action": "Discard",
-                    "Rod": "Discard",
+                    "Rod": "Mana",
                     "Character": "Huddle",
                     "Fit": "Huddle",
                     "Relic": "Huddle"
@@ -174,7 +174,7 @@
                         "alignment": "CENTER",
                         "isHorizontalAllowed": true
                     },
-                    "Rods": {
+                    "Mana": {
                         "title": "Rods",
                         "isHidden": "yes",
                         "height": "SMALL",
