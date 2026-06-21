@@ -175,13 +175,13 @@
                         "isHorizontalAllowed": true
                     },
                     "Mana": {
-                        "title": "Rods",
+                        "title": "Mana",
                         "isHidden": "yes",
                         "height": "SMALL",
                         "alignment": "CENTER",
                         "noAutoPayTo": "true",
                         "isHorizontalAllowed": false,
-                        "displayedTitle": "Rod Zone",
+                        "displayedTitle": "Rods",
                         "isGroupForbidden": false,
                         "showHiddenCardInHistory": false,
                         "logWhenPlayed": true
