@@ -52,7 +52,7 @@
                 }
             },
             "newTurn": {
-                "drawOnStart": true,
+                "drawOnStart": false,
                 "sharedTurn": true
             },
             "countersStartingValues": [
