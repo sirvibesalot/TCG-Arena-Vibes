@@ -63,7 +63,8 @@
                 "customSections": [
                     "Huddle",
                     "Mana",
-                    "Baron"
+                    "Baron",
+                    "FirstPlayer"
                 ],
                 "layout": {
                     "direction": "column",
