@@ -86,9 +86,16 @@
                         },
                         {
                             "direction": "row",
+                            "style": false,
                             "content": [
                                 {
                                     "section": "Mana"
+                                },
+                                {
+                                    "section": "Fishsicles",
+                                    "style": {
+                                        "width": "20vh"
+                                    }
                                 }
                             ]
                         }
