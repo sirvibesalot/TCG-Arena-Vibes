@@ -151,6 +151,13 @@
                         "height": "MEDIUM",
                         "alignment": "CENTER",
                         "isHorizontalAllowed": false
+                    },
+                    "Fishsicles": {
+                        "title": "Fishsicles",
+                        "isHidden": "no",
+                        "height": "MEDIUM",
+                        "alignment": "CENTER",
+                        "isHorizontalAllowed": false
                     }
                 }
             }
