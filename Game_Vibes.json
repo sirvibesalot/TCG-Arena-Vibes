@@ -182,7 +182,7 @@
                                         "style": {
                                             "opacity": "{{game.data.FirstPlayer.enabled ? '1' : '0'}}"
                                         },
-                                        "src": "https://sirvibesalot.github.io/TCG-Arena-Vibes/assets/tokensBaron_Token.webp"
+                                        "src": "https://sirvibesalot.github.io/TCG-Arena-Vibes/assets/tokens/Baron_Token.webp"
                                     }
                                 },
                                 {
