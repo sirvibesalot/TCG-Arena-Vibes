@@ -79,7 +79,7 @@
                                 {
                                     "section": "Baron",
                                     "style": {
-                                        "width": "20vh"
+                                        "width": "18vh"
                                     }
                                 }
                             ]
@@ -94,7 +94,7 @@
                                 {
                                     "section": "Fishsicles",
                                     "style": {
-                                        "width": "20vh"
+                                        "width": "18vh"
                                     }
                                 }
                             ]
@@ -155,7 +155,7 @@
                     "Fishsicles": {
                         "title": "Fishsicles",
                         "isHidden": "no",
-                        "height": "MEDIUM",
+                        "height": "SMALL",
                         "alignment": "CENTER",
                         "isHorizontalAllowed": false
                     }
