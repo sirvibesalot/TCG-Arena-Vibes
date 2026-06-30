@@ -29,15 +29,6 @@
     },
     "gameplay": {
         "Classic": {
-            "beforeGameStart": {
-                "initialBoardSetup": [
-                    {
-                        "createCardId": "ETH-201",
-                        "count": 1,
-                        "destination": "Baron"
-                    }
-                ]
-            },
             "mulligan": {
                 "startingHandSize": 5,
                 "mulliganCount": {
@@ -63,7 +54,6 @@
                 "customSections": [
                     "Huddle",
                     "Mana",
-                    "Baron",
                     "FirstPlayer"
                 ],
                 "layout": {
@@ -79,12 +69,6 @@
                             "content": [
                                 {
                                     "section": "Huddle"
-                                },
-                                {
-                                    "section": "Baron",
-                                    "style": {
-                                        "width": "18vh"
-                                    }
                                 }
                             ]
                         },
@@ -148,13 +132,6 @@
                         "isGroupForbidden": false,
                         "showHiddenCardInHistory": false,
                         "logWhenPlayed": true
-                    },
-                    "Baron": {
-                        "title": "Baron",
-                        "isHidden": "no",
-                        "height": "MEDIUM",
-                        "alignment": "CENTER",
-                        "isHorizontalAllowed": false
                     },
                     "Fishsicles": {
                         "title": "Fishsicles",
