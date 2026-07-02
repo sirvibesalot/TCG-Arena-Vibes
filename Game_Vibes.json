@@ -151,8 +151,8 @@
                                     "width": "4vh",
                                     "borderRadius": "50%",
                                     "zIndex": 1000,
-                                    "marginBottom": "3vh",
-                                    "marginLeft": "2vh"
+                                    "marginBottom": "1vh",
+                                    "marginLeft": "8vh"
                                 }
                             },
                             "children": [
