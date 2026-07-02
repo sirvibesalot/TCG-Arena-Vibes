@@ -145,14 +145,13 @@
                         "blueprint": {
                             "type": "div",
                             "props": {
-                                "className": "position-absolute bottom-0 start-50 shadow on-section-hovered",
+                                "className": "position-absolute bottom-0 start-45 shadow on-section-hovered",
                                 "style": {
                                     "height": "4vh",
                                     "width": "4vh",
                                     "borderRadius": "50%",
                                     "zIndex": 1000,
-                                    "marginBottom": "1vh",
-                                    "marginRight": "1vh"
+                                    "marginTop": "4vh"
                                 }
                             },
                             "children": [
