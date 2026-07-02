@@ -57,12 +57,10 @@
                     "FirstPlayer"
                 ],
                 "layout": {
+                    "section": "FirstPlayer",
                     "direction": "column",
                     "isSymetricalForOpponents": false,
                     "content": [
-                        {
-                            "section": "FirstPlayer"
-                        },
                         {
                             "direction": "row",
                             "style": false,
@@ -174,7 +172,7 @@
                                             "display": "{{game.data.FirstPlayer.enabled ? 'none' : 'flex'}}"
                                         }
                                     },
-                                    "onClick": "game.data.FirstPlayer.enabled = true; game.data.FirstPlayer.lastOwnerOrderPosition = game.turn.orderPosition; chatLog('has taken the Baron token')",
+                                    "onClick": "game.data.FirstPlayer.enabled = true; game.data.FirstPlayer.lastOwnerOrderPosition = game.turn.orderPosition; chatLog('has taken the Baron')",
                                     "children": "Take Baron"
                                 }
                             ]
