@@ -57,7 +57,6 @@
                     "FirstPlayer"
                 ],
                 "layout": {
-                    "section": "FirstPlayer",
                     "direction": "column",
                     "isSymetricalForOpponents": false,
                     "content": [
@@ -82,6 +81,9 @@
                                     "style": {
                                         "width": "11vh"
                                     }
+                                },
+                                {
+                                    "section": "FirstPlayer"
                                 }
                             ]
                         }
@@ -143,14 +145,14 @@
                         "blueprint": {
                             "type": "div",
                             "props": {
-                                "className": "position-absolute bottom-0 start-0 shadow on-section-hovered",
+                                "className": "position-absolute bottom-0 start-100 shadow on-section-hovered",
                                 "style": {
                                     "height": "4vh",
                                     "width": "4vh",
                                     "borderRadius": "50%",
                                     "zIndex": 1000,
                                     "marginBottom": "1vh",
-                                    "marginLeft": "8vh"
+                                    "marginRight": "1vh"
                                 }
                             },
                             "children": [
