@@ -160,7 +160,7 @@
                                     "props": {
                                         "className": "h-100 w-100",
                                         "style": {
-                                            "opacity": "{{game.data.FirstPlayer.enabled ? '1' : '0'}}"
+                                            "opacity": "{{game.data.FirstPlayer.enabled ? '1' : '0.1'}}"
                                         },
                                         "src": "https://sirvibesalot.github.io/TCG-Arena-Vibes/assets/tokens/Baron_Token.webp"
                                     }
