@@ -82,7 +82,7 @@
                                 {
                                     "section": "Fishsicles",
                                     "style": {
-                                        "width": "10vh"
+                                        "width": "11vh"
                                     }
                                 }
                             ]
@@ -151,8 +151,8 @@
                                     "width": "4vh",
                                     "borderRadius": "50%",
                                     "zIndex": 1000,
-                                    "marginBottom": "8vh",
-                                    "marginLeft": "1vh"
+                                    "marginBottom": "3vh",
+                                    "marginLeft": "2vh"
                                 }
                             },
                             "children": [
