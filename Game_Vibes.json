@@ -29,6 +29,15 @@
     },
     "gameplay": {
         "Classic": {
+            "beforeGameStart": {
+                "initialBoardSetup": [
+                    {
+                        "createCardId": "ETH-201",
+                        "count": 1,
+                        "destination": "Baron"
+                    }
+                ]
+            },
             "mulligan": {
                 "startingHandSize": 5,
                 "mulliganCount": {
@@ -148,7 +157,9 @@
                         "isHidden": "no",
                         "height": "MEDIUM",
                         "alignment": "CENTER",
-                        "isHorizontalAllowed": false
+                        "isHorizontalAllowed": false,
+                        "noQuickActions": true,
+                        "logWhenPlayed": true
                     }
                 }
             }
