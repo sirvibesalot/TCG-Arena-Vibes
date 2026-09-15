@@ -5218,7 +5218,7 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": false
     }
   },
   "LOTL-016": {
@@ -9103,7 +9103,7 @@
     "subtype": null,
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": false
     }
   },
   "BAP-025": {
