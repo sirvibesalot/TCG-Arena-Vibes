@@ -96,7 +96,10 @@
     "title": "Birb and Pengu - Green Starter",
     "id": "Birb and Pengu - Green Starter",
     "game": "Vibes",
-    "format": "Classic",
+    "format": [
+      "Classic",
+      "Table for Two"
+    ],
     "cardCount": 52,
     "createdAt": "2024-12-04",
     "lastModifiedAt": "2026-06-16",
@@ -199,7 +202,10 @@
     "title": "Birb & Pengu - Blue Starter",
     "id": "Birb & Pengu - Blue Starter",
     "game": "Vibes",
-    "format": "Classic",
+    "format": [
+      "Classic",
+      "Table for Two"
+    ],
     "cardCount": 52,
     "createdAt": "2024-12-04",
     "lastModifiedAt": "2026-06-16",
@@ -306,7 +312,10 @@
     "title": "Birb & Pengu - Red Starter",
     "id": "Birb & Pengu - Red Starter",
     "game": "Vibes",
-    "format": "Classic",
+    "format": [
+      "Classic",
+      "Table for Two"
+    ],
     "cardCount": 52,
     "createdAt": "2024-12-04",
     "lastModifiedAt": "2026-06-16",
@@ -408,7 +417,8 @@
     "lastModifiedAt": "2026-06-16T07:28:23.693Z",
     "game": "Vibes",
     "format": [
-      "Classic"
+      "Classic",
+      "Table for Two"
     ],
     "deckList": {
       "categoriesOrder": [
@@ -496,7 +506,8 @@
     "lastModifiedAt": "2026-06-16T07:28:23.693Z",
     "game": "Vibes",
     "format": [
-      "Classic"
+      "Classic",
+      "Table for Two"
     ],
     "deckList": {
       "categoriesOrder": [
@@ -577,7 +588,8 @@
     "lastModifiedAt": "2026-06-16T07:28:23.693Z",
     "game": "Vibes",
     "format": [
-      "Classic"
+      "Classic",
+      "Table for Two"
     ],
     "deckList": {
       "categoriesOrder": [
@@ -665,7 +677,8 @@
     "lastModifiedAt": "2026-06-16T07:28:23.693Z",
     "game": "Vibes",
     "format": [
-      "Classic"
+      "Classic",
+      "Table for Two"
     ],
     "deckList": {
       "categoriesOrder": [
