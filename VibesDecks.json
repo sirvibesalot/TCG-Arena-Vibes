@@ -3,7 +3,10 @@
     "title": "Birb and Pengu - Yellow Starter",
     "id": "Birb and Pengu - Yellow Starter",
     "game": "Vibes",
-    "format": "Classic",
+    "format": [
+      "Classic",
+      "TFT"
+    ],
     "cardCount": 52,
     "createdAt": "2024-12-04",
     "lastModifiedAt": "2026-06-16",
