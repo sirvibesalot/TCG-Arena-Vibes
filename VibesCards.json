@@ -20,7 +20,8 @@
     "subtype": "Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-002": {
@@ -44,7 +45,8 @@
     "subtype": "Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-003": {
@@ -68,7 +70,8 @@
     "subtype": "Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-004": {
@@ -92,7 +95,8 @@
     "subtype": "Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -119,7 +123,8 @@
     "subtype": "Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-006": {
@@ -143,7 +148,8 @@
     "subtype": "Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-007": {
@@ -167,7 +173,8 @@
     "subtype": "Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-008": {
@@ -191,7 +198,8 @@
     "subtype": "Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-009": {
@@ -215,7 +223,8 @@
     "subtype": "Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-010": {
@@ -239,7 +248,8 @@
     "subtype": "Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-011": {
@@ -263,7 +273,8 @@
     "subtype": "Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-012": {
@@ -287,7 +298,8 @@
     "subtype": "Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-013": {
@@ -311,7 +323,8 @@
     "subtype": "Mega Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-014": {
@@ -335,7 +348,8 @@
     "subtype": "Wizard Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-015": {
@@ -359,7 +373,8 @@
     "subtype": "Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-016": {
@@ -383,7 +398,8 @@
     "subtype": "Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-017": {
@@ -407,7 +423,8 @@
     "subtype": "Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-018": {
@@ -431,7 +448,8 @@
     "subtype": "Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-019": {
@@ -455,7 +473,8 @@
     "subtype": "Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-020": {
@@ -479,7 +498,8 @@
     "subtype": "Swordsman Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-021": {
@@ -503,7 +523,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": false,
+      "TFT": false
     }
   },
   "ETH-022": {
@@ -527,7 +548,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-023": {
@@ -551,7 +573,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-024": {
@@ -575,7 +598,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-025": {
@@ -599,7 +623,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-026": {
@@ -623,7 +648,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-027": {
@@ -647,7 +673,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-028": {
@@ -671,7 +698,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-029": {
@@ -695,7 +723,8 @@
     "subtype": "Saucy",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-030": {
@@ -719,7 +748,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-031": {
@@ -743,7 +773,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-032": {
@@ -767,7 +798,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-033": {
@@ -791,7 +823,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-034": {
@@ -815,7 +848,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-035": {
@@ -839,7 +873,8 @@
     "subtype": "Swordsman Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-036": {
@@ -863,7 +898,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-037": {
@@ -887,7 +923,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-038": {
@@ -911,7 +948,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-039": {
@@ -935,7 +973,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-040": {
@@ -959,7 +998,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-041": {
@@ -983,7 +1023,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-042": {
@@ -1007,7 +1048,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-043": {
@@ -1031,7 +1073,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-044": {
@@ -1055,7 +1098,8 @@
     "subtype": "Paper Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-045": {
@@ -1079,7 +1123,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-046": {
@@ -1103,7 +1148,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": false,
+      "TFT": false
     }
   },
   "ETH-047": {
@@ -1127,7 +1173,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-048": {
@@ -1151,7 +1198,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-049": {
@@ -1175,7 +1223,8 @@
     "subtype": "Speedy Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-050": {
@@ -1199,7 +1248,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-051": {
@@ -1223,7 +1273,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-052": {
@@ -1247,7 +1298,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-053": {
@@ -1271,7 +1323,8 @@
     "subtype": "Rock Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-054": {
@@ -1295,7 +1348,8 @@
     "subtype": "Scissors Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-055": {
@@ -1319,7 +1373,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-056": {
@@ -1343,7 +1398,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-057": {
@@ -1367,7 +1423,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-058": {
@@ -1391,7 +1448,8 @@
     "subtype": "Mega Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-059": {
@@ -1415,7 +1473,8 @@
     "subtype": "Wizard Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-060": {
@@ -1439,7 +1498,8 @@
     "subtype": "",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-061": {
@@ -1463,7 +1523,8 @@
     "subtype": "",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-062": {
@@ -1487,7 +1548,8 @@
     "subtype": "",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-063": {
@@ -1511,7 +1573,8 @@
     "subtype": "",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-064": {
@@ -1535,7 +1598,8 @@
     "subtype": "",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-065": {
@@ -1559,7 +1623,8 @@
     "subtype": "",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-066": {
@@ -1583,7 +1648,8 @@
     "subtype": "",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-067": {
@@ -1607,7 +1673,8 @@
     "subtype": "Saucy",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-068": {
@@ -1631,7 +1698,8 @@
     "subtype": "",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-069": {
@@ -1658,7 +1726,8 @@
       "ETH-202"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-070": {
@@ -1682,7 +1751,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-071": {
@@ -1706,7 +1776,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-072": {
@@ -1730,7 +1801,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-073": {
@@ -1754,7 +1826,8 @@
     "subtype": "Mega Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-074": {
@@ -1778,7 +1851,8 @@
     "subtype": "Wizard Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-075": {
@@ -1802,7 +1876,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-076": {
@@ -1826,7 +1901,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-077": {
@@ -1850,7 +1926,8 @@
     "subtype": "Swordsman Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-078": {
@@ -1874,7 +1951,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -1901,7 +1979,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-080": {
@@ -1925,7 +2004,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-081": {
@@ -1949,7 +2029,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-082": {
@@ -1973,7 +2054,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-083": {
@@ -1997,7 +2079,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-084": {
@@ -2021,7 +2104,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-085": {
@@ -2045,7 +2129,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-086": {
@@ -2069,7 +2154,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-087": {
@@ -2093,7 +2179,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-088": {
@@ -2117,7 +2204,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-089": {
@@ -2141,7 +2229,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-090": {
@@ -2165,7 +2254,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-091": {
@@ -2189,7 +2279,8 @@
     "subtype": "",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-092": {
@@ -2213,7 +2304,8 @@
     "subtype": "",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-093": {
@@ -2237,7 +2329,8 @@
     "subtype": "",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-094": {
@@ -2261,7 +2354,8 @@
     "subtype": "",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-095": {
@@ -2285,7 +2379,8 @@
     "subtype": "Saucy",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-096": {
@@ -2309,7 +2404,8 @@
     "subtype": "",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-097": {
@@ -2333,7 +2429,8 @@
     "subtype": "",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -2360,7 +2457,8 @@
     "subtype": "",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-099": {
@@ -2384,7 +2482,8 @@
     "subtype": "",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-100": {
@@ -2408,7 +2507,8 @@
     "subtype": "",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-101": {
@@ -2432,7 +2532,8 @@
     "subtype": "",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-102": {
@@ -2456,7 +2557,8 @@
     "subtype": "",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-103": {
@@ -2480,7 +2582,8 @@
     "subtype": "Swordsman Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-104": {
@@ -2504,7 +2607,8 @@
     "subtype": "Mega Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-105": {
@@ -2528,7 +2632,8 @@
     "subtype": "Wizard Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-106": {
@@ -2552,7 +2657,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-107": {
@@ -2576,7 +2682,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-108": {
@@ -2600,7 +2707,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-109": {
@@ -2624,7 +2732,8 @@
     "subtype": "Thawing Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-110": {
@@ -2648,7 +2757,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-111": {
@@ -2672,7 +2782,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-112": {
@@ -2696,7 +2807,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-113": {
@@ -2720,7 +2832,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-114": {
@@ -2744,7 +2857,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-115": {
@@ -2768,7 +2882,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-116": {
@@ -2792,7 +2907,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-117": {
@@ -2816,7 +2932,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-118": {
@@ -2840,7 +2957,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-119": {
@@ -2864,7 +2982,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-120": {
@@ -2888,7 +3007,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-121": {
@@ -2912,7 +3032,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-122": {
@@ -2936,7 +3057,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-123": {
@@ -2960,7 +3082,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-124": {
@@ -2984,7 +3107,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-125": {
@@ -3008,7 +3132,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-126": {
@@ -3032,7 +3157,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-127": {
@@ -3056,7 +3182,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-128": {
@@ -3080,7 +3207,8 @@
     "subtype": "Saucy",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-129": {
@@ -3104,7 +3232,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-130": {
@@ -3128,7 +3257,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-131": {
@@ -3152,7 +3282,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-132": {
@@ -3176,7 +3307,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-133": {
@@ -3200,7 +3332,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-134": {
@@ -3224,7 +3357,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-135": {
@@ -3248,7 +3382,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-136": {
@@ -3272,7 +3407,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-137": {
@@ -3296,7 +3432,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-138": {
@@ -3320,7 +3457,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-139": {
@@ -3344,7 +3482,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-140": {
@@ -3368,7 +3507,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-141": {
@@ -3392,7 +3532,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": false,
+      "TFT": false
     }
   },
   "ETH-142": {
@@ -3416,7 +3557,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-143": {
@@ -3440,7 +3582,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-144": {
@@ -3464,7 +3607,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-145": {
@@ -3488,7 +3632,8 @@
     "subtype": "Swordsman Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-146": {
@@ -3512,7 +3657,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-147": {
@@ -3536,7 +3682,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-148": {
@@ -3560,7 +3707,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-149": {
@@ -3584,7 +3732,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-150": {
@@ -3608,7 +3757,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-151": {
@@ -3632,7 +3782,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-152": {
@@ -3656,7 +3807,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-153": {
@@ -3680,7 +3832,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-154": {
@@ -3704,7 +3857,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-155": {
@@ -3728,7 +3882,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-156": {
@@ -3752,7 +3907,8 @@
     "subtype": "Mega Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-157": {
@@ -3776,7 +3932,8 @@
     "subtype": "Wizard Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-158": {
@@ -3800,7 +3957,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-159": {
@@ -3824,7 +3982,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-160": {
@@ -3848,7 +4007,8 @@
     "subtype": "",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-161": {
@@ -3872,7 +4032,8 @@
     "subtype": "",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-162": {
@@ -3896,7 +4057,8 @@
     "subtype": "",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-163": {
@@ -3920,7 +4082,8 @@
     "subtype": "",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-164": {
@@ -3944,7 +4107,8 @@
     "subtype": "",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-165": {
@@ -3968,7 +4132,8 @@
     "subtype": "",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-166": {
@@ -3992,7 +4157,8 @@
     "subtype": "",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-167": {
@@ -4016,7 +4182,8 @@
     "subtype": "Saucy",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-168": {
@@ -4040,7 +4207,8 @@
     "subtype": "",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-169": {
@@ -4064,7 +4232,8 @@
     "subtype": "",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-170": {
@@ -4088,7 +4257,8 @@
     "subtype": "",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-171": {
@@ -4112,7 +4282,8 @@
     "subtype": "Penguin",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-172": {
@@ -4136,7 +4307,8 @@
     "subtype": "Penguin",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-173": {
@@ -4160,7 +4332,8 @@
     "subtype": "Penguin",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-174": {
@@ -4184,7 +4357,8 @@
     "subtype": "Penguin",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-175": {
@@ -4208,7 +4382,8 @@
     "subtype": "Penguin",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-176": {
@@ -4232,7 +4407,8 @@
     "subtype": "Wizard Penguin",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-177": {
@@ -4256,7 +4432,8 @@
     "subtype": "Penguin",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-178": {
@@ -4280,7 +4457,8 @@
     "subtype": "Penguin",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-179": {
@@ -4304,7 +4482,8 @@
     "subtype": "Penguin",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-180": {
@@ -4328,7 +4507,8 @@
     "subtype": "Penguin",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-181": {
@@ -4352,7 +4532,8 @@
     "subtype": "",
     "color": "Relic",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-182": {
@@ -4376,7 +4557,8 @@
     "subtype": "",
     "color": "Relic",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-183": {
@@ -4400,7 +4582,8 @@
     "subtype": "",
     "color": "Relic",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-184": {
@@ -4424,7 +4607,8 @@
     "subtype": "",
     "color": "Relic",
     "_legal": {
-      "COR": true
+      "COR": false,
+      "TFT": false
     }
   },
   "ETH-185": {
@@ -4448,7 +4632,8 @@
     "subtype": "",
     "color": "Relic",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-186": {
@@ -4472,7 +4657,8 @@
     "subtype": "",
     "color": "Relic",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-187": {
@@ -4496,7 +4682,8 @@
     "subtype": "",
     "color": "Relic",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-188": {
@@ -4520,7 +4707,8 @@
     "subtype": "",
     "color": "Relic",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-189": {
@@ -4544,7 +4732,8 @@
     "subtype": "",
     "color": "Relic",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-190": {
@@ -4568,7 +4757,8 @@
     "subtype": "",
     "color": "Relic",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-191": {
@@ -4592,7 +4782,8 @@
     "subtype": "",
     "color": "Rod",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-192": {
@@ -4616,7 +4807,8 @@
     "subtype": "",
     "color": "Rod",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-193": {
@@ -4640,7 +4832,8 @@
     "subtype": "",
     "color": "Rod",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-194": {
@@ -4664,7 +4857,8 @@
     "subtype": "",
     "color": "Rod",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-195": {
@@ -4688,7 +4882,8 @@
     "subtype": "",
     "color": "Rod",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-196": {
@@ -4712,7 +4907,8 @@
     "subtype": "",
     "color": "Rod",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-197": {
@@ -4736,7 +4932,8 @@
     "subtype": "",
     "color": "Rod",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-198": {
@@ -4760,7 +4957,8 @@
     "subtype": "",
     "color": "Rod",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-199": {
@@ -4784,7 +4982,8 @@
     "subtype": "",
     "color": "Rod",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-200": {
@@ -4808,7 +5007,8 @@
     "subtype": "",
     "color": "Rod",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "ETH-201": {
@@ -4832,7 +5032,8 @@
     "subtype": "",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "isToken": true
   },
@@ -4857,7 +5058,8 @@
     "subtype": "",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "isToken": true
   },
@@ -4882,7 +5084,8 @@
     "subtype": "Lil Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-002": {
@@ -4906,7 +5109,8 @@
     "subtype": "Lil Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-003": {
@@ -4930,7 +5134,8 @@
     "subtype": "Lil Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-004": {
@@ -4954,7 +5159,8 @@
     "subtype": "Lil Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-005": {
@@ -4978,7 +5184,8 @@
     "subtype": "Lil Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-006": {
@@ -5002,7 +5209,8 @@
     "subtype": "Lil Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-007": {
@@ -5026,7 +5234,8 @@
     "subtype": "Lil Swordsman Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-008": {
@@ -5050,7 +5259,8 @@
     "subtype": "Lil Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-009": {
@@ -5074,7 +5284,8 @@
     "subtype": "Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-010": {
@@ -5098,7 +5309,8 @@
     "subtype": "Lil Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-011": {
@@ -5122,7 +5334,8 @@
     "subtype": "Lil Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-012": {
@@ -5146,7 +5359,8 @@
     "subtype": "Lil Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-013": {
@@ -5170,7 +5384,8 @@
     "subtype": "Lil Speedy Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-014": {
@@ -5194,7 +5409,8 @@
     "subtype": "Lil Penguin",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-015": {
@@ -5218,7 +5434,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": false
+      "COR": false,
+      "TFT": false
     }
   },
   "LOTL-016": {
@@ -5242,7 +5459,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-017": {
@@ -5266,7 +5484,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-018": {
@@ -5290,7 +5509,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-019": {
@@ -5314,7 +5534,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-020": {
@@ -5338,7 +5559,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-021": {
@@ -5362,7 +5584,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-022": {
@@ -5386,7 +5609,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-023": {
@@ -5410,7 +5634,8 @@
     "subtype": "Saucy",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": false,
+      "TFT": false
     }
   },
   "LOTL-024": {
@@ -5434,7 +5659,8 @@
     "subtype": "",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-025": {
@@ -5458,7 +5684,8 @@
     "subtype": "Lil Paper Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-026": {
@@ -5482,7 +5709,8 @@
     "subtype": "Lil Rock Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-027": {
@@ -5506,7 +5734,8 @@
     "subtype": "Lil Scissors Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-028": {
@@ -5530,7 +5759,8 @@
     "subtype": "Lil Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-029": {
@@ -5554,7 +5784,8 @@
     "subtype": "Lil Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-030": {
@@ -5578,7 +5809,8 @@
     "subtype": "Lil Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-031": {
@@ -5602,7 +5834,8 @@
     "subtype": "Lil Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-032": {
@@ -5626,7 +5859,8 @@
     "subtype": "Lil Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-033": {
@@ -5650,7 +5884,8 @@
     "subtype": "Lil Silly Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-034": {
@@ -5674,7 +5909,8 @@
     "subtype": "Lil Swordsman Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-035": {
@@ -5698,7 +5934,8 @@
     "subtype": "Lil Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-036": {
@@ -5722,7 +5959,8 @@
     "subtype": "Lil Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-037": {
@@ -5746,7 +5984,8 @@
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-038": {
@@ -5770,7 +6009,8 @@
     "subtype": "Lil Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-039": {
@@ -5794,7 +6034,8 @@
     "subtype": "Lil Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-040": {
@@ -5818,7 +6059,8 @@
     "subtype": "Lil Penguin",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-041": {
@@ -5842,7 +6084,8 @@
     "subtype": "",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-042": {
@@ -5866,7 +6109,8 @@
     "subtype": "",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-043": {
@@ -5890,7 +6134,8 @@
     "subtype": "",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-044": {
@@ -5914,7 +6159,8 @@
     "subtype": "",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-045": {
@@ -5938,7 +6184,8 @@
     "subtype": "",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-046": {
@@ -5962,7 +6209,8 @@
     "subtype": "",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-047": {
@@ -5986,7 +6234,8 @@
     "subtype": "Saucy",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-048": {
@@ -6010,7 +6259,8 @@
     "subtype": "",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-049": {
@@ -6034,7 +6284,8 @@
     "subtype": "Lil Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-050": {
@@ -6058,7 +6309,8 @@
     "subtype": "Lil Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -6085,7 +6337,8 @@
     "subtype": "Lil Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -6112,7 +6365,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -6139,7 +6393,8 @@
     "subtype": "Lil Swordsman Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-054": {
@@ -6163,7 +6418,8 @@
     "subtype": "Lil Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -6190,7 +6446,8 @@
     "subtype": "Lil Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-056": {
@@ -6214,7 +6471,8 @@
     "subtype": "Lil Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -6241,7 +6499,8 @@
     "subtype": "Lil Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-058": {
@@ -6265,7 +6524,8 @@
     "subtype": "Lil Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-059": {
@@ -6289,7 +6549,8 @@
     "subtype": "Lil Silly Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -6316,7 +6577,8 @@
     "subtype": "Lil Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -6343,7 +6605,8 @@
     "subtype": "Lil Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-062": {
@@ -6367,7 +6630,8 @@
     "subtype": "Lil Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -6394,7 +6658,8 @@
     "subtype": "Lil Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -6421,7 +6686,8 @@
     "subtype": "",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-065": {
@@ -6445,7 +6711,8 @@
     "subtype": "",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -6472,7 +6739,8 @@
     "subtype": "",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-067": {
@@ -6496,7 +6764,8 @@
     "subtype": "",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-068": {
@@ -6520,7 +6789,8 @@
     "subtype": "",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -6547,7 +6817,8 @@
     "subtype": "",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-070": {
@@ -6571,7 +6842,8 @@
     "subtype": "",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-071": {
@@ -6595,7 +6867,8 @@
     "subtype": "Saucy",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-072": {
@@ -6619,7 +6892,8 @@
     "subtype": "Lil Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -6646,7 +6920,8 @@
     "subtype": "Lil Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-074": {
@@ -6670,7 +6945,8 @@
     "subtype": "Lil Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-075": {
@@ -6694,7 +6970,8 @@
     "subtype": "Lil Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-076": {
@@ -6718,7 +6995,8 @@
     "subtype": "Lil Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-077": {
@@ -6742,7 +7020,8 @@
     "subtype": "Lil Silly Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-078": {
@@ -6766,7 +7045,8 @@
     "subtype": "Lil Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-079": {
@@ -6790,7 +7070,8 @@
     "subtype": "Lil Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-080": {
@@ -6814,7 +7095,8 @@
     "subtype": "Lil Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-081": {
@@ -6838,7 +7120,8 @@
     "subtype": "Lil Swordsman Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-082": {
@@ -6862,7 +7145,8 @@
     "subtype": "Silly Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-083": {
@@ -6886,7 +7170,8 @@
     "subtype": "Lil Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-084": {
@@ -6910,7 +7195,8 @@
     "subtype": "Lil Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-085": {
@@ -6934,7 +7220,8 @@
     "subtype": "Lil Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-086": {
@@ -6958,7 +7245,8 @@
     "subtype": "Lil Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-087": {
@@ -6982,7 +7270,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -7009,7 +7298,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-089": {
@@ -7033,7 +7323,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-090": {
@@ -7057,7 +7348,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-091": {
@@ -7081,7 +7373,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-092": {
@@ -7105,7 +7398,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-093": {
@@ -7129,7 +7423,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-094": {
@@ -7153,7 +7448,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-095": {
@@ -7177,7 +7473,8 @@
     "subtype": "",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-096": {
@@ -7201,7 +7498,8 @@
     "subtype": "Saucy",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-097": {
@@ -7225,7 +7523,8 @@
     "subtype": "Lil Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-098": {
@@ -7249,7 +7548,8 @@
     "subtype": "Lil Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-099": {
@@ -7273,7 +7573,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-100": {
@@ -7297,7 +7598,8 @@
     "subtype": "Lil Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -7324,7 +7626,8 @@
     "subtype": "Lil Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-102": {
@@ -7348,7 +7651,8 @@
     "subtype": "Lil Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-103": {
@@ -7372,7 +7676,8 @@
     "subtype": "Lil Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-104": {
@@ -7396,7 +7701,8 @@
     "subtype": "Lil Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-105": {
@@ -7420,7 +7726,8 @@
     "subtype": "Lil Swordsman Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-106": {
@@ -7444,7 +7751,8 @@
     "subtype": "Lil Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-107": {
@@ -7468,7 +7776,8 @@
     "subtype": "Lil Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-108": {
@@ -7492,7 +7801,8 @@
     "subtype": "Lil Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-109": {
@@ -7516,7 +7826,8 @@
     "subtype": null,
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-110": {
@@ -7540,7 +7851,8 @@
     "subtype": "Lil Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-111": {
@@ -7564,7 +7876,8 @@
     "subtype": "Lil Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-112": {
@@ -7588,7 +7901,8 @@
     "subtype": "Lil Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-113": {
@@ -7612,7 +7926,8 @@
     "subtype": "Lil Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-114": {
@@ -7636,7 +7951,8 @@
     "subtype": "Lil Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-115": {
@@ -7660,7 +7976,8 @@
     "subtype": "",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-116": {
@@ -7684,7 +8001,8 @@
     "subtype": "",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-117": {
@@ -7708,7 +8026,8 @@
     "subtype": "",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-118": {
@@ -7732,7 +8051,8 @@
     "subtype": "",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-119": {
@@ -7756,7 +8076,8 @@
     "subtype": "",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-120": {
@@ -7780,7 +8101,8 @@
     "subtype": "Saucy",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-121": {
@@ -7804,7 +8126,8 @@
     "subtype": "Lil Wizard Penguin",
     "color": "Red Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-122": {
@@ -7828,7 +8151,8 @@
     "subtype": "Lil Wizard Penguin",
     "color": "Yellow Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-123": {
@@ -7852,7 +8176,8 @@
     "subtype": "Lil Wizard Penguin",
     "color": "Green Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-124": {
@@ -7876,7 +8201,8 @@
     "subtype": "Lil Wizard Penguin",
     "color": "Blue Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-125": {
@@ -7900,7 +8226,8 @@
     "subtype": "Lil Wizard Penguin",
     "color": "Purple Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-126": {
@@ -7924,7 +8251,8 @@
     "subtype": "",
     "color": "Green Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-127": {
@@ -7948,7 +8276,8 @@
     "subtype": "",
     "color": "Purple Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-128": {
@@ -7972,7 +8301,8 @@
     "subtype": "",
     "color": "Red Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-129": {
@@ -7996,7 +8326,8 @@
     "subtype": "",
     "color": "Blue Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-130": {
@@ -8020,7 +8351,8 @@
     "subtype": "",
     "color": "Yellow Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-131": {
@@ -8044,7 +8376,8 @@
     "subtype": "Lil Penguin",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-132": {
@@ -8068,7 +8401,8 @@
     "subtype": "Lil Penguin",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-133": {
@@ -8092,7 +8426,8 @@
     "subtype": "Penguin",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-134": {
@@ -8116,7 +8451,8 @@
     "subtype": "Location",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-135": {
@@ -8140,7 +8476,8 @@
     "subtype": "Location",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-136": {
@@ -8164,7 +8501,8 @@
     "subtype": "Wizard",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-137": {
@@ -8188,7 +8526,8 @@
     "subtype": "Wizard",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-138": {
@@ -8212,7 +8551,8 @@
     "subtype": "Wizard",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-139": {
@@ -8236,7 +8576,8 @@
     "subtype": "Location",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-140": {
@@ -8260,7 +8601,8 @@
     "subtype": "Wizard",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-141": {
@@ -8284,7 +8626,8 @@
     "subtype": "Wizard",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-142": {
@@ -8308,7 +8651,8 @@
     "subtype": "Location",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-143": {
@@ -8332,7 +8676,8 @@
     "subtype": "Location",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-144": {
@@ -8356,7 +8701,8 @@
     "subtype": "Location",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-145": {
@@ -8380,7 +8726,8 @@
     "subtype": "Lil Penguin",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-146": {
@@ -8404,7 +8751,8 @@
     "subtype": "Location",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-147": {
@@ -8428,7 +8776,8 @@
     "subtype": "Location",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-148": {
@@ -8452,7 +8801,8 @@
     "subtype": "Location",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": false,
+      "TFT": false
     }
   },
   "LOTL-149": {
@@ -8476,7 +8826,8 @@
     "subtype": "Location",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-150": {
@@ -8500,7 +8851,8 @@
     "subtype": "",
     "color": "Rod",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "LOTL-151": {
@@ -8524,7 +8876,8 @@
     "subtype": "Nyan Cat",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-001": {
@@ -8548,7 +8901,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-002": {
@@ -8572,7 +8926,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-003": {
@@ -8596,7 +8951,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-004": {
@@ -8620,7 +8976,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-005": {
@@ -8644,7 +9001,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-006": {
@@ -8668,7 +9026,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-007": {
@@ -8695,7 +9054,8 @@
       "ETH-202"
     ],
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-008": {
@@ -8719,7 +9079,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": false,
+      "TFT": false
     }
   },
   "BAP-009": {
@@ -8743,7 +9104,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-010": {
@@ -8767,7 +9129,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-011": {
@@ -8791,7 +9154,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-012": {
@@ -8815,7 +9179,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-013": {
@@ -8839,7 +9204,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-014": {
@@ -8863,7 +9229,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-015": {
@@ -8887,7 +9254,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-016": {
@@ -8911,7 +9279,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-017": {
@@ -8935,7 +9304,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-018": {
@@ -8959,7 +9329,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-019": {
@@ -8983,7 +9354,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-020": {
@@ -9007,7 +9379,8 @@
     "subtype": "Birb",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-021": {
@@ -9031,7 +9404,8 @@
     "subtype": null,
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-022": {
@@ -9055,7 +9429,8 @@
     "subtype": "Saucy",
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-023": {
@@ -9079,7 +9454,8 @@
     "subtype": null,
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-024": {
@@ -9103,7 +9479,8 @@
     "subtype": null,
     "color": "Red",
     "_legal": {
-      "COR": false
+      "COR": false,
+      "TFT": false
     }
   },
   "BAP-025": {
@@ -9127,7 +9504,8 @@
     "subtype": null,
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-026": {
@@ -9151,7 +9529,8 @@
     "subtype": null,
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-027": {
@@ -9175,7 +9554,8 @@
     "subtype": null,
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-028": {
@@ -9199,7 +9579,8 @@
     "subtype": null,
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": false,
+      "TFT": false
     }
   },
   "BAP-029": {
@@ -9223,7 +9604,8 @@
     "subtype": null,
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-030": {
@@ -9247,7 +9629,8 @@
     "subtype": null,
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-031": {
@@ -9271,7 +9654,8 @@
     "subtype": null,
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-032": {
@@ -9295,7 +9679,8 @@
     "subtype": null,
     "color": "Red",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -9322,7 +9707,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-034": {
@@ -9346,7 +9732,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-035": {
@@ -9370,7 +9757,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-036": {
@@ -9394,7 +9782,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-037": {
@@ -9418,7 +9807,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-038": {
@@ -9442,7 +9832,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-039": {
@@ -9466,7 +9857,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-040": {
@@ -9490,7 +9882,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-041": {
@@ -9514,7 +9907,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-042": {
@@ -9538,7 +9932,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-043": {
@@ -9562,7 +9957,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-044": {
@@ -9586,7 +9982,8 @@
     "subtype": "Silly Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-045": {
@@ -9610,7 +10007,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-046": {
@@ -9634,7 +10032,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-047": {
@@ -9658,7 +10057,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-048": {
@@ -9682,7 +10082,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-049": {
@@ -9706,7 +10107,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-050": {
@@ -9730,7 +10132,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-051": {
@@ -9754,7 +10157,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-052": {
@@ -9778,7 +10182,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-053": {
@@ -9802,7 +10207,8 @@
     "subtype": "Birb",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-054": {
@@ -9826,7 +10232,8 @@
     "subtype": null,
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-055": {
@@ -9850,7 +10257,8 @@
     "subtype": null,
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-056": {
@@ -9874,7 +10282,8 @@
     "subtype": null,
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-057": {
@@ -9898,7 +10307,8 @@
     "subtype": "Saucy",
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-058": {
@@ -9922,7 +10332,8 @@
     "subtype": null,
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-059": {
@@ -9946,7 +10357,8 @@
     "subtype": null,
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-060": {
@@ -9970,7 +10382,8 @@
     "subtype": null,
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-061": {
@@ -9994,7 +10407,8 @@
     "subtype": null,
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-062": {
@@ -10018,7 +10432,8 @@
     "subtype": null,
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-063": {
@@ -10042,7 +10457,8 @@
     "subtype": null,
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-064": {
@@ -10066,7 +10482,8 @@
     "subtype": null,
     "color": "Yellow",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-065": {
@@ -10090,7 +10507,8 @@
     "subtype": "Lil Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-066": {
@@ -10114,7 +10532,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-067": {
@@ -10138,7 +10557,8 @@
     "subtype": "Birb",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-068": {
@@ -10162,7 +10582,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-069": {
@@ -10186,7 +10607,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-070": {
@@ -10210,7 +10632,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-071": {
@@ -10234,7 +10657,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-072": {
@@ -10258,7 +10682,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-073": {
@@ -10282,7 +10707,8 @@
     "subtype": "Lil Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-074": {
@@ -10306,7 +10732,8 @@
     "subtype": "Birb",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-075": {
@@ -10330,7 +10757,8 @@
     "subtype": "Lil Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-076": {
@@ -10354,7 +10782,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-077": {
@@ -10378,7 +10807,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-078": {
@@ -10402,7 +10832,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-079": {
@@ -10426,7 +10857,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-080": {
@@ -10450,7 +10882,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-081": {
@@ -10474,7 +10907,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-082": {
@@ -10498,7 +10932,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-083": {
@@ -10522,7 +10957,8 @@
     "subtype": "Lil Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-084": {
@@ -10546,7 +10982,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-085": {
@@ -10570,7 +11007,8 @@
     "subtype": "Penguin",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-086": {
@@ -10594,7 +11032,8 @@
     "subtype": null,
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-087": {
@@ -10618,7 +11057,8 @@
     "subtype": null,
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-088": {
@@ -10642,7 +11082,8 @@
     "subtype": null,
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-089": {
@@ -10666,7 +11107,8 @@
     "subtype": null,
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-090": {
@@ -10690,7 +11132,8 @@
     "subtype": null,
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-091": {
@@ -10714,7 +11157,8 @@
     "subtype": "Saucy",
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-092": {
@@ -10738,7 +11182,8 @@
     "subtype": null,
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-093": {
@@ -10762,7 +11207,8 @@
     "subtype": null,
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-094": {
@@ -10786,7 +11232,8 @@
     "subtype": null,
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-095": {
@@ -10810,7 +11257,8 @@
     "subtype": null,
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-096": {
@@ -10834,7 +11282,8 @@
     "subtype": null,
     "color": "Green",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-097": {
@@ -10858,7 +11307,8 @@
     "subtype": "Lil Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-098": {
@@ -10882,7 +11332,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-099": {
@@ -10906,7 +11357,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-100": {
@@ -10930,7 +11382,8 @@
     "subtype": "Birb",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-101": {
@@ -10954,7 +11407,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-102": {
@@ -10978,7 +11432,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-103": {
@@ -11002,7 +11457,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-104": {
@@ -11026,7 +11482,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-105": {
@@ -11050,7 +11507,8 @@
     "subtype": "Lil Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-106": {
@@ -11074,7 +11532,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-107": {
@@ -11098,7 +11557,8 @@
     "subtype": "Birb",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-108": {
@@ -11122,7 +11582,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-109": {
@@ -11146,7 +11607,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-110": {
@@ -11170,7 +11632,8 @@
     "subtype": "Lil Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-111": {
@@ -11194,7 +11657,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-112": {
@@ -11218,7 +11682,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-113": {
@@ -11242,7 +11707,8 @@
     "subtype": "Lil Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-114": {
@@ -11266,7 +11732,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-115": {
@@ -11290,7 +11757,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-116": {
@@ -11314,7 +11782,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-117": {
@@ -11338,7 +11807,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-118": {
@@ -11362,7 +11832,8 @@
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-119": {
@@ -11386,7 +11857,8 @@
     "subtype": "Silly Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-120": {
@@ -11410,7 +11882,8 @@
     "subtype": "Lil Penguin",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-121": {
@@ -11434,7 +11907,8 @@
     "subtype": null,
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-122": {
@@ -11458,7 +11932,8 @@
     "subtype": null,
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-123": {
@@ -11482,7 +11957,8 @@
     "subtype": null,
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-124": {
@@ -11506,7 +11982,8 @@
     "subtype": "Saucy",
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-125": {
@@ -11530,7 +12007,8 @@
     "subtype": null,
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-126": {
@@ -11554,7 +12032,8 @@
     "subtype": null,
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-127": {
@@ -11578,7 +12057,8 @@
     "subtype": null,
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-128": {
@@ -11602,7 +12082,8 @@
     "subtype": null,
     "color": "Blue",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-129": {
@@ -11626,7 +12107,8 @@
     "subtype": "Birb",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-130": {
@@ -11650,7 +12132,8 @@
     "subtype": "Lil Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-131": {
@@ -11674,7 +12157,8 @@
     "subtype": "Lil Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-132": {
@@ -11698,7 +12182,8 @@
     "subtype": "Lil Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-133": {
@@ -11722,7 +12207,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-134": {
@@ -11746,7 +12232,8 @@
     "subtype": "Birb",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-135": {
@@ -11770,7 +12257,8 @@
     "subtype": "Birb",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-136": {
@@ -11794,7 +12282,8 @@
     "subtype": "Birb",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-137": {
@@ -11818,7 +12307,8 @@
     "subtype": "Birb",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-138": {
@@ -11842,7 +12332,8 @@
     "subtype": "Birb",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-139": {
@@ -11866,7 +12357,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-140": {
@@ -11890,7 +12382,8 @@
     "subtype": "Birb",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-141": {
@@ -11914,7 +12407,8 @@
     "subtype": "Birb",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-142": {
@@ -11938,7 +12432,8 @@
     "subtype": "Birb",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-143": {
@@ -11962,7 +12457,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-144": {
@@ -11986,7 +12482,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-145": {
@@ -12010,7 +12507,8 @@
     "subtype": "Birb",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -12037,7 +12535,8 @@
     "subtype": "Birb",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-147": {
@@ -12061,7 +12560,8 @@
     "subtype": "Penguin",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-148": {
@@ -12085,7 +12585,8 @@
     "subtype": "Birb",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-149": {
@@ -12109,7 +12610,8 @@
     "subtype": null,
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-150": {
@@ -12133,7 +12635,8 @@
     "subtype": null,
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-151": {
@@ -12157,7 +12660,8 @@
     "subtype": null,
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-152": {
@@ -12181,7 +12685,8 @@
     "subtype": null,
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -12208,7 +12713,8 @@
     "subtype": null,
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-154": {
@@ -12232,7 +12738,8 @@
     "subtype": "Saucy",
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-155": {
@@ -12256,7 +12763,8 @@
     "subtype": null,
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-156": {
@@ -12280,7 +12788,8 @@
     "subtype": null,
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-157": {
@@ -12304,7 +12813,8 @@
     "subtype": null,
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-158": {
@@ -12328,7 +12838,8 @@
     "subtype": null,
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-159": {
@@ -12352,7 +12863,8 @@
     "subtype": null,
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-160": {
@@ -12376,7 +12888,8 @@
     "subtype": null,
     "color": "Purple",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-161": {
@@ -12400,7 +12913,8 @@
     "subtype": "Wizard Birb",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-162": {
@@ -12424,7 +12938,8 @@
     "subtype": "Wizard Birb",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-163": {
@@ -12448,7 +12963,8 @@
     "subtype": "Wizard Birb",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-164": {
@@ -12472,7 +12988,8 @@
     "subtype": "Wizard Birb",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-165": {
@@ -12496,7 +13013,8 @@
     "subtype": "Wizard Birb",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-166": {
@@ -12520,7 +13038,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-167": {
@@ -12544,7 +13063,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-168": {
@@ -12568,7 +13088,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-169": {
@@ -12592,7 +13113,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-170": {
@@ -12616,7 +13138,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-171": {
@@ -12640,7 +13163,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-172": {
@@ -12664,7 +13188,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-173": {
@@ -12688,7 +13213,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-174": {
@@ -12712,7 +13238,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-175": {
@@ -12736,7 +13263,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-176": {
@@ -12760,7 +13288,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-177": {
@@ -12784,7 +13313,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-178": {
@@ -12808,7 +13338,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-179": {
@@ -12832,7 +13363,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-180": {
@@ -12856,7 +13388,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-181": {
@@ -12880,7 +13413,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-182": {
@@ -12904,7 +13438,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-183": {
@@ -12928,7 +13463,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-184": {
@@ -12952,7 +13488,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-185": {
@@ -12976,7 +13513,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-186": {
@@ -13000,7 +13538,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-187": {
@@ -13024,7 +13563,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-188": {
@@ -13048,7 +13588,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-189": {
@@ -13072,7 +13613,8 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-190": {
@@ -13096,7 +13638,8 @@
     "subtype": "Location",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-191": {
@@ -13120,7 +13663,8 @@
     "subtype": "Location",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -13147,7 +13691,8 @@
     "subtype": "Location",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-193": {
@@ -13171,7 +13716,8 @@
     "subtype": "Location",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     }
   },
   "BAP-194": {
@@ -13195,7 +13741,8 @@
     "subtype": "Location",
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
     },
     "tokens": [
       "ETH-202"
@@ -13222,7 +13769,517 @@
     "subtype": null,
     "color": "Colorless",
     "_legal": {
-      "COR": true
+      "COR": true,
+      "TFT": true
+    }
+  },
+  "TFT-004": {
+    "id": "TFT-004",
+    "face": {
+      "front": {
+        "name": "Printed Penguin",
+        "type": "Character",
+        "cost": "3",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/PrintedPenguin.webp"
+        }
+      }
+    },
+    "name": "Printed Penguin",
+    "type": "Character",
+    "cost": "3",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "2",
+    "subtype": "Penguin",
+    "color": "Red",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-008": {
+    "id": "TFT-008",
+    "face": {
+      "front": {
+        "name": "Cheery Penguin",
+        "type": "Character",
+        "cost": "3",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/CheeryPenguin.webp"
+        }
+      }
+    },
+    "name": "Cheery Penguin",
+    "type": "Character",
+    "cost": "3",
+    "set": "Table for Two",
+    "rarity": "Rare",
+    "vibe": "4",
+    "subtype": "Penguin",
+    "color": "Red",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-009": {
+    "id": "TFT-009",
+    "face": {
+      "front": {
+        "name": "Penguin Who Knits",
+        "type": "Character",
+        "cost": "4",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/PenguinWhoKnits.webp"
+        }
+      }
+    },
+    "name": "Penguin Who Knits",
+    "type": "Character",
+    "cost": "4",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "1",
+    "subtype": "Penguin",
+    "color": "Red",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-030": {
+    "id": "TFT-030",
+    "face": {
+      "front": {
+        "name": "Practically Perfect Penguin",
+        "type": "Character",
+        "cost": "1",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/PracticallyPerfectPenguin.webp"
+        }
+      }
+    },
+    "name": "Practically Perfect Penguin",
+    "type": "Character",
+    "cost": "1",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "0",
+    "subtype": "Penguin",
+    "color": "Yellow",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-035": {
+    "id": "TFT-035",
+    "face": {
+      "front": {
+        "name": "Swimming Penguin",
+        "type": "Character",
+        "cost": "3",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/SwimmingPenguin.webp"
+        }
+      }
+    },
+    "name": "Swimming Penguin",
+    "type": "Character",
+    "cost": "3",
+    "set": "Table for Two",
+    "rarity": "Uncommon",
+    "vibe": "2",
+    "subtype": "Penguin",
+    "color": "Yellow",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-038": {
+    "id": "TFT-038",
+    "face": {
+      "front": {
+        "name": "Exhausted Penguin",
+        "type": "Character",
+        "cost": "4",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/ExhaustedPenguin.webp"
+        }
+      }
+    },
+    "name": "Exhausted Penguin",
+    "type": "Character",
+    "cost": "4",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "2",
+    "subtype": "Penguin",
+    "color": "Yellow",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-051": {
+    "id": "TFT-051",
+    "face": {
+      "front": {
+        "name": "Back to the Peng",
+        "type": "Action",
+        "cost": "YY",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/BackToThePeng.webp"
+        }
+      }
+    },
+    "name": "Back to the Peng",
+    "type": "Action",
+    "cost": "YY",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "EMPTY",
+    "subtype": "",
+    "color": "Yellow",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-059": {
+    "id": "TFT-059",
+    "face": {
+      "front": {
+        "name": "Salt Penguin",
+        "type": "Character",
+        "cost": "1",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/SaltPenguin.webp"
+        }
+      }
+    },
+    "name": "Salt Penguin",
+    "type": "Character",
+    "cost": "1",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "1",
+    "subtype": "Penguin",
+    "color": "Green",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    },
+    "tokens": [
+      "ETH-202"
+    ]
+  },
+  "TFT-060": {
+    "id": "TFT-060",
+    "face": {
+      "front": {
+        "name": "Heist Penguin",
+        "type": "Character",
+        "cost": "2",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/HeistPenguin.webp"
+        }
+      }
+    },
+    "name": "Heist Penguin",
+    "type": "Character",
+    "cost": "2",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "1",
+    "subtype": "Speedy Penguin",
+    "color": "Green",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-062": {
+    "id": "TFT-062",
+    "face": {
+      "front": {
+        "name": "Hole Punch Penguin",
+        "type": "Character",
+        "cost": "2",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/HolePunchPenguin.webp"
+        }
+      }
+    },
+    "name": "Hole Punch Penguin",
+    "type": "Character",
+    "cost": "2",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "2",
+    "subtype": "Penguin",
+    "color": "Green",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-066": {
+    "id": "TFT-066",
+    "face": {
+      "front": {
+        "name": "Harley-Penguson",
+        "type": "Character",
+        "cost": "2",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/HarleyPenguson.webp"
+        }
+      }
+    },
+    "name": "Harley-Penguson",
+    "type": "Character",
+    "cost": "2",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "5",
+    "subtype": "Speedy Penguin",
+    "color": "Green",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-067": {
+    "id": "TFT-067",
+    "face": {
+      "front": {
+        "name": "Primary Penguin",
+        "type": "Character",
+        "cost": "3",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/PrimaryPenguin.webp"
+        }
+      }
+    },
+    "name": "Primary Penguin",
+    "type": "Character",
+    "cost": "3",
+    "set": "Table for Two",
+    "rarity": "Rare",
+    "vibe": "1",
+    "subtype": "Penguin",
+    "color": "Green",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-069": {
+    "id": "TFT-069",
+    "face": {
+      "front": {
+        "name": "Neon Penguin",
+        "type": "Character",
+        "cost": "3",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/NeonPenguin.webp"
+        }
+      }
+    },
+    "name": "Neon Penguin",
+    "type": "Character",
+    "cost": "3",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "2",
+    "subtype": "Penguin",
+    "color": "Green",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-089": {
+    "id": "TFT-089",
+    "face": {
+      "front": {
+        "name": "Getaway Penguin",
+        "type": "Character",
+        "cost": "2",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/GetawayPenguin.webp"
+        }
+      }
+    },
+    "name": "Getaway Penguin",
+    "type": "Character",
+    "cost": "2",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "2",
+    "subtype": "Penguin",
+    "color": "Blue",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    },
+    "tokens": [
+      "ETH-202"
+    ]
+  },
+  "TFT-093": {
+    "id": "TFT-093",
+    "face": {
+      "front": {
+        "name": "Pengu, Who Brings the Snacks",
+        "type": "Character",
+        "cost": "3",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/PenguWhoBringsTheSnacks.webp"
+        }
+      }
+    },
+    "name": "Pengu, Who Brings the Snacks",
+    "type": "Character",
+    "cost": "3",
+    "set": "Table for Two",
+    "rarity": "Rare",
+    "vibe": "2",
+    "subtype": "Penguin",
+    "color": "Blue",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-105": {
+    "id": "TFT-105",
+    "face": {
+      "front": {
+        "name": "Uh Oh!",
+        "type": "Action",
+        "cost": "0",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/UhOh.webp"
+        }
+      }
+    },
+    "name": "Uh Oh!",
+    "type": "Action",
+    "cost": "0",
+    "set": "Table for Two",
+    "rarity": "Rare",
+    "vibe": "EMPTY",
+    "subtype": "Saucy",
+    "color": "Blue",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-113": {
+    "id": "TFT-113",
+    "face": {
+      "front": {
+        "name": "Peng Album",
+        "type": "Action",
+        "cost": "BBBB",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/PengAlbum.webp"
+        }
+      }
+    },
+    "name": "Peng Album",
+    "type": "Action",
+    "cost": "BBBB",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "EMPTY",
+    "subtype": "",
+    "color": "Blue",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-125": {
+    "id": "TFT-125",
+    "face": {
+      "front": {
+        "name": "Astronaut Penguin",
+        "type": "Character",
+        "cost": "4",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/AstronautPenguin.webp"
+        }
+      }
+    },
+    "name": "Astronaut Penguin",
+    "type": "Character",
+    "cost": "4",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "2",
+    "subtype": "Penguin",
+    "color": "Purple",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-126": {
+    "id": "TFT-126",
+    "face": {
+      "front": {
+        "name": "Devastated Penguin",
+        "type": "Character",
+        "cost": "PPPP",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/DevastatedPenguin.webp"
+        }
+      }
+    },
+    "name": "Devastated Penguin",
+    "type": "Character",
+    "cost": "PPPP",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "2",
+    "subtype": "Penguin",
+    "color": "Purple",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    },
+    "tokens": [
+      "ETH-202"
+    ]
+  },
+  "TFT-157": {
+    "id": "TFT-157",
+    "face": {
+      "front": {
+        "name": "Mimed Rod",
+        "type": "Rod",
+        "cost": "EMPTY",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/MimedRod.webp"
+        }
+      }
+    },
+    "name": "Mimed Rod",
+    "type": "Rod",
+    "cost": "EMPTY",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "EMPTY",
+    "subtype": "",
+    "color": "Rod",
+    "_legal": {
+      "COR": false,
+      "TFT": true
     }
   }
 }

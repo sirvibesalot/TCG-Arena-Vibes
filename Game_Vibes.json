@@ -16,6 +16,12 @@
                 "gameplay": "Classic",
                 "legalityCode": "COR",
                 "deckRuleset": "Classic"
+            },
+            {
+                "title": "Table for Two",
+                "gameplay": "Classic",
+                "legalityCode": "TFT",
+                "deckRuleset": "Classic"
             }
         ],
         "deckRulesets": {
