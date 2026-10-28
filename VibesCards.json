@@ -13773,6 +13773,31 @@
       "TFT": true
     }
   },
+  "TFT-002": {
+    "id": "TFT-002",
+    "face": {
+      "front": {
+        "name": "Sunrise Penguin",
+        "type": "Character",
+        "cost": "1",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/SunrisePenguin.webp"
+        }
+      }
+    },
+    "name": "Sunrise Penguin",
+    "type": "Character",
+    "cost": "1",
+    "set": "Table for Two",
+    "rarity": null,
+    "vibe": "3",
+    "subtype": "Penguin",
+    "color": "Red",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
   "TFT-004": {
     "id": "TFT-004",
     "face": {
@@ -13848,6 +13873,56 @@
       "TFT": true
     }
   },
+  "TFT-011": {
+    "id": "TFT-011",
+    "face": {
+      "front": {
+        "name": "Tangled Penguin",
+        "type": null,
+        "cost": "4",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/TangledPenguin.webp"
+        }
+      }
+    },
+    "name": "Tangled Penguin",
+    "type": null,
+    "cost": "4",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "2",
+    "subtype": "",
+    "color": "Red",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-015": {
+    "id": "TFT-015",
+    "face": {
+      "front": {
+        "name": "Penguin Who Waters Plants",
+        "type": "Character",
+        "cost": "5",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/PenguinWhoWatersPlants.webp"
+        }
+      }
+    },
+    "name": "Penguin Who Waters Plants",
+    "type": "Character",
+    "cost": "5",
+    "set": "Table for Two",
+    "rarity": "Rare",
+    "vibe": "4",
+    "subtype": "Penguin",
+    "color": "Red",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
   "TFT-030": {
     "id": "TFT-030",
     "face": {
@@ -13866,6 +13941,56 @@
     "set": "Table for Two",
     "rarity": "Common",
     "vibe": "0",
+    "subtype": "Penguin",
+    "color": "Yellow",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-032": {
+    "id": "TFT-032",
+    "face": {
+      "front": {
+        "name": "Penguin in a Teapot",
+        "type": "Character",
+        "cost": "2",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/PenguinInATeapot.webp"
+        }
+      }
+    },
+    "name": "Penguin in a Teapot",
+    "type": "Character",
+    "cost": "2",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "2",
+    "subtype": "Penguin",
+    "color": "Yellow",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-033": {
+    "id": "TFT-033",
+    "face": {
+      "front": {
+        "name": "Tinkering Penguin",
+        "type": "Character",
+        "cost": "3",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/TinkeringPenguin.webp"
+        }
+      }
+    },
+    "name": "Tinkering Penguin",
+    "type": "Character",
+    "cost": "3",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "2",
     "subtype": "Penguin",
     "color": "Yellow",
     "_legal": {
@@ -13923,6 +14048,31 @@
       "TFT": true
     }
   },
+  "TFT-041": {
+    "id": "TFT-041",
+    "face": {
+      "front": {
+        "name": "Auctioneer Penguin",
+        "type": "Character",
+        "cost": "4",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/AuctioneerPenguin.webp"
+        }
+      }
+    },
+    "name": "Auctioneer Penguin",
+    "type": "Character",
+    "cost": "4",
+    "set": "Table for Two",
+    "rarity": "Uncommon",
+    "vibe": "4",
+    "subtype": "Penguin",
+    "color": "Yellow",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
   "TFT-051": {
     "id": "TFT-051",
     "face": {
@@ -13940,6 +14090,31 @@
     "cost": "YY",
     "set": "Table for Two",
     "rarity": "Common",
+    "vibe": "EMPTY",
+    "subtype": "",
+    "color": "Yellow",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-052": {
+    "id": "TFT-052",
+    "face": {
+      "front": {
+        "name": "Siren Song",
+        "type": "Action",
+        "cost": "YY",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/SirenSong.webp"
+        }
+      }
+    },
+    "name": "Siren Song",
+    "type": "Action",
+    "cost": "YY",
+    "set": "Table for Two",
+    "rarity": "Uncommon",
     "vibe": "EMPTY",
     "subtype": "",
     "color": "Yellow",
@@ -13995,6 +14170,31 @@
     "rarity": "Common",
     "vibe": "1",
     "subtype": "Speedy Penguin",
+    "color": "Green",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-061": {
+    "id": "TFT-061",
+    "face": {
+      "front": {
+        "name": "Spirit Penguin",
+        "type": "Character",
+        "cost": "2",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/SpiritPenguin.webp"
+        }
+      }
+    },
+    "name": "Spirit Penguin",
+    "type": "Character",
+    "cost": "2",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "1",
+    "subtype": "Penguin",
     "color": "Green",
     "_legal": {
       "COR": false,
@@ -14129,6 +14329,56 @@
       "ETH-202"
     ]
   },
+  "TFT-090": {
+    "id": "TFT-090",
+    "face": {
+      "front": {
+        "name": "Cafe Penguin",
+        "type": "Character",
+        "cost": "2",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/CafePenguin.webp"
+        }
+      }
+    },
+    "name": "Cafe Penguin",
+    "type": "Character",
+    "cost": "2",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "3",
+    "subtype": "Penguin",
+    "color": "Blue",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-092": {
+    "id": "TFT-092",
+    "face": {
+      "front": {
+        "name": "Frustrated Penguin",
+        "type": "Character",
+        "cost": "3",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/FrustratedPenguin.webp"
+        }
+      }
+    },
+    "name": "Frustrated Penguin",
+    "type": "Character",
+    "cost": "3",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "2",
+    "subtype": "Penguin",
+    "color": "Blue",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
   "TFT-093": {
     "id": "TFT-093",
     "face": {
@@ -14147,6 +14397,31 @@
     "set": "Table for Two",
     "rarity": "Rare",
     "vibe": "2",
+    "subtype": "Penguin",
+    "color": "Blue",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-095": {
+    "id": "TFT-095",
+    "face": {
+      "front": {
+        "name": "Gusty Penguin",
+        "type": "Character",
+        "cost": "3",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/GustyPenguin.webp"
+        }
+      }
+    },
+    "name": "Gusty Penguin",
+    "type": "Character",
+    "cost": "3",
+    "set": "Table for Two",
+    "rarity": null,
+    "vibe": "4",
     "subtype": "Penguin",
     "color": "Blue",
     "_legal": {
@@ -14199,6 +14474,31 @@
     "vibe": "EMPTY",
     "subtype": "",
     "color": "Blue",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-122": {
+    "id": "TFT-122",
+    "face": {
+      "front": {
+        "name": "Polly, Who Brings the Vibes",
+        "type": "Character",
+        "cost": "3",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/PollyWhoBringsTheVibes.webp"
+        }
+      }
+    },
+    "name": "Polly, Who Brings the Vibes",
+    "type": "Character",
+    "cost": "3",
+    "set": "Table for Two",
+    "rarity": "Rare",
+    "vibe": "4",
+    "subtype": "Penguin",
+    "color": "Purple",
     "_legal": {
       "COR": false,
       "TFT": true
@@ -14257,6 +14557,81 @@
       "ETH-202"
     ]
   },
+  "TFT-139": {
+    "id": "TFT-139",
+    "face": {
+      "front": {
+        "name": "Float Along",
+        "type": "Action",
+        "cost": "PP",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/FloatAlong.webp"
+        }
+      }
+    },
+    "name": "Float Along",
+    "type": "Action",
+    "cost": "PP",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "EMPTY",
+    "subtype": "",
+    "color": "Purple",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-140": {
+    "id": "TFT-140",
+    "face": {
+      "front": {
+        "name": "Put Down Roots",
+        "type": "Action",
+        "cost": "PP",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/PutDownRoots.webp"
+        }
+      }
+    },
+    "name": "Put Down Roots",
+    "type": "Action",
+    "cost": "PP",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "EMPTY",
+    "subtype": "",
+    "color": "Purple",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-151": {
+    "id": "TFT-151",
+    "face": {
+      "front": {
+        "name": "Ancient Calendar",
+        "type": "Relic",
+        "cost": "2",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/AncientCalendar.webp"
+        }
+      }
+    },
+    "name": "Ancient Calendar",
+    "type": "Relic",
+    "cost": "2",
+    "set": "Table for Two",
+    "rarity": "Uncommon",
+    "vibe": "EMPTY",
+    "subtype": "",
+    "color": "Colorless",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
   "TFT-157": {
     "id": "TFT-157",
     "face": {
@@ -14274,6 +14649,31 @@
     "cost": "EMPTY",
     "set": "Table for Two",
     "rarity": "Common",
+    "vibe": "EMPTY",
+    "subtype": "",
+    "color": "Rod",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-160": {
+    "id": "TFT-160",
+    "face": {
+      "front": {
+        "name": "Sweet Rod",
+        "type": "Rod",
+        "cost": "EMPTY",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/SweetRod.webp"
+        }
+      }
+    },
+    "name": "Sweet Rod",
+    "type": "Rod",
+    "cost": "EMPTY",
+    "set": "Table for Two",
+    "rarity": "Uncommon",
     "vibe": "EMPTY",
     "subtype": "",
     "color": "Rod",
