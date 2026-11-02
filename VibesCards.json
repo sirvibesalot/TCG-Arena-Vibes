@@ -14226,6 +14226,56 @@
       "TFT": true
     }
   },
+  "TFT-063": {
+    "id": "TFT-063",
+    "face": {
+      "front": {
+        "name": "Speedrunning Penguin",
+        "type": "Character",
+        "cost": "2",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/SpeedrunningPenguin.webp"
+        }
+      }
+    },
+    "name": "Speedrunning Penguin",
+    "type": "Character",
+    "cost": "2",
+    "set": "Table for Two",
+    "rarity": "Uncommon",
+    "vibe": "2",
+    "subtype": "Speedy Penguin",
+    "color": "Green",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-065": {
+    "id": "TFT-065",
+    "face": {
+      "front": {
+        "name": "Waiting Penguin",
+        "type": "Character",
+        "cost": "2",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/WaitingPenguin.webp"
+        }
+      }
+    },
+    "name": "Waiting Penguin",
+    "type": "Character",
+    "cost": "2",
+    "set": "Table for Two",
+    "rarity": "Rare",
+    "vibe": "2",
+    "subtype": "Penguin",
+    "color": "Green",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
   "TFT-066": {
     "id": "TFT-066",
     "face": {
@@ -14296,6 +14346,81 @@
     "vibe": "2",
     "subtype": "Penguin",
     "color": "Green",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-080": {
+    "id": "TFT-080",
+    "face": {
+      "front": {
+        "name": "Guide to Safety",
+        "type": "Action",
+        "cost": "GG",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/GuideToSafety.webp"
+        }
+      }
+    },
+    "name": "Guide to Safety",
+    "type": "Action",
+    "cost": "GG",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "EMPTY",
+    "subtype": "",
+    "color": "Green",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-084": {
+    "id": "TFT-084",
+    "face": {
+      "front": {
+        "name": "Harvest",
+        "type": "Action",
+        "cost": "GGG",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/Harvest.webp"
+        }
+      }
+    },
+    "name": "Harvest",
+    "type": "Action",
+    "cost": "GGG",
+    "set": "Table for Two",
+    "rarity": "Uncommon",
+    "vibe": "EMPTY",
+    "subtype": "",
+    "color": "Green",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-088": {
+    "id": "TFT-088",
+    "face": {
+      "front": {
+        "name": "Penga Lisa",
+        "type": "Character",
+        "cost": "B",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/PengaLisa.webp"
+        }
+      }
+    },
+    "name": "Penga Lisa",
+    "type": "Character",
+    "cost": "B",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "1",
+    "subtype": "Penguin",
+    "color": "Blue",
     "_legal": {
       "COR": false,
       "TFT": true
@@ -14429,6 +14554,56 @@
       "TFT": true
     }
   },
+  "TFT-099": {
+    "id": "TFT-099",
+    "face": {
+      "front": {
+        "name": "Gladiator Penguin",
+        "type": "Character",
+        "cost": "4",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/GladiatorPenguin.webp"
+        }
+      }
+    },
+    "name": "Gladiator Penguin",
+    "type": "Character",
+    "cost": "4",
+    "set": "Table for Two",
+    "rarity": "Uncommon",
+    "vibe": "7",
+    "subtype": "Penguin",
+    "color": "Blue",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-102": {
+    "id": "TFT-102",
+    "face": {
+      "front": {
+        "name": "Triumphant Penguin",
+        "type": "Character",
+        "cost": "8",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/TriumphantPenguin.webp"
+        }
+      }
+    },
+    "name": "Triumphant Penguin",
+    "type": "Character",
+    "cost": "8",
+    "set": "Table for Two",
+    "rarity": "Rare",
+    "vibe": "3",
+    "subtype": "Penguin",
+    "color": "Blue",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
   "TFT-105": {
     "id": "TFT-105",
     "face": {
@@ -14474,6 +14649,81 @@
     "vibe": "EMPTY",
     "subtype": "",
     "color": "Blue",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-114": {
+    "id": "TFT-114",
+    "face": {
+      "front": {
+        "name": "The Oath of the Pengs",
+        "type": "Action",
+        "cost": "BBBB",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/TheOathOfThePengs.webp"
+        }
+      }
+    },
+    "name": "The Oath of the Pengs",
+    "type": "Action",
+    "cost": "BBBB",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "EMPTY",
+    "subtype": "",
+    "color": "Blue",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-119": {
+    "id": "TFT-119",
+    "face": {
+      "front": {
+        "name": "Spoon Penguin",
+        "type": "Character",
+        "cost": "2",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/SpoonPenguin.webp"
+        }
+      }
+    },
+    "name": "Spoon Penguin",
+    "type": "Character",
+    "cost": "2",
+    "set": "Table for Two",
+    "rarity": null,
+    "vibe": "2",
+    "subtype": "Penguin",
+    "color": "Purple",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-121": {
+    "id": "TFT-121",
+    "face": {
+      "front": {
+        "name": "Still Penguin",
+        "type": "Character",
+        "cost": "3",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/StillPenguin.webp"
+        }
+      }
+    },
+    "name": "Still Penguin",
+    "type": "Character",
+    "cost": "3",
+    "set": "Table for Two",
+    "rarity": "Common",
+    "vibe": "2",
+    "subtype": "Penguin",
+    "color": "Purple",
     "_legal": {
       "COR": false,
       "TFT": true
@@ -14557,6 +14807,31 @@
       "ETH-202"
     ]
   },
+  "TFT-129": {
+    "id": "TFT-129",
+    "face": {
+      "front": {
+        "name": "Celestial Gardenkeeper",
+        "type": "Character",
+        "cost": "5",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/CelestialGardenkeeper.webp"
+        }
+      }
+    },
+    "name": "Celestial Gardenkeeper",
+    "type": "Character",
+    "cost": "5",
+    "set": "Table for Two",
+    "rarity": "Rare",
+    "vibe": "4",
+    "subtype": "Penguin",
+    "color": "Purple",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
   "TFT-139": {
     "id": "TFT-139",
     "face": {
@@ -14602,6 +14877,81 @@
     "vibe": "EMPTY",
     "subtype": "",
     "color": "Purple",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-142": {
+    "id": "TFT-142",
+    "face": {
+      "front": {
+        "name": "As You Wish",
+        "type": "Action",
+        "cost": "PP",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/AsYouWish.webp"
+        }
+      }
+    },
+    "name": "As You Wish",
+    "type": "Action",
+    "cost": "PP",
+    "set": "Table for Two",
+    "rarity": "Rare",
+    "vibe": "EMPTY",
+    "subtype": "",
+    "color": "Purple",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-148": {
+    "id": "TFT-148",
+    "face": {
+      "front": {
+        "name": "Jumbo Jetpack",
+        "type": "Fit",
+        "cost": "2",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/JumboJetpack.webp"
+        }
+      }
+    },
+    "name": "Jumbo Jetpack",
+    "type": "Fit",
+    "cost": "2",
+    "set": "Table for Two",
+    "rarity": "Uncommon",
+    "vibe": "EMPTY",
+    "subtype": "",
+    "color": "Colorless",
+    "_legal": {
+      "COR": false,
+      "TFT": true
+    }
+  },
+  "TFT-150": {
+    "id": "TFT-150",
+    "face": {
+      "front": {
+        "name": "Vile Vial",
+        "type": "Fit",
+        "cost": "4",
+        "image": {
+          "imageURL": "https://www.vibesdecks.com/cards/TfT/VileVial.webp"
+        }
+      }
+    },
+    "name": "Vile Vial",
+    "type": "Fit",
+    "cost": "4",
+    "set": "Table for Two",
+    "rarity": "Uncommon",
+    "vibe": "EMPTY",
+    "subtype": "",
+    "color": "Colorless",
     "_legal": {
       "COR": false,
       "TFT": true
